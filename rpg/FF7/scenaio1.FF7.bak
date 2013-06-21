@@ -1,0 +1,711 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 7.0.0.0 for Windows">
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE>ＦＦⅦ－シナリオ攻略１</TITLE>
+</HEAD>
+<BODY text="#000000" bgcolor="#ffcc99" link="#006600" vlink="#33cc33" alink="#cc33cc">
+<H1 align="center">シナリオ攻略１</H1>
+<HR>
+<CENTER>
+<TABLE bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>壱番街駅ホーム</B></TD>
+      <TD bgcolor="#ffffff">手前の倒れている兵士を調べると<FONT color="#ff0066">ポーション</FONT>が入手できる<BR>
+      さらに調べるともう１個手に入る</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>壱番魔晄炉</B></TD>
+      <TD bgcolor="#ffffff">奥で<FONT color="#ff0066">ガードスコーピオン</FONT>とバトル！<BR>
+      <TABLE bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD colspan="4" bgcolor="#00ff00">ＶＳ：ガードスコーピオン</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＨＰ</TD>
+            <TD bgcolor="#ffffff">８００</TD>
+            <TD bgcolor="#ffffff">弱点属性</TD>
+            <TD bgcolor="#ffffff">雷</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＭＰ</TD>
+            <TD bgcolor="#ffffff">０</TD>
+            <TD bgcolor="#ffffff">耐性属性</TD>
+            <TD bgcolor="#ffffff">重</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＥＸＰ</TD>
+            <TD bgcolor="#ffffff">１００</TD>
+            <TD bgcolor="#ffffff">有効ステータス</TD>
+            <TD bgcolor="#ffffff"></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＡＰ</TD>
+            <TD bgcolor="#ffffff">１０</TD>
+            <TD bgcolor="#ffffff">落とすアイテム</TD>
+            <TD bgcolor="#ffffff">アサルトガン</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ギル</TD>
+            <TD bgcolor="#ffffff">１００</TD>
+            <TD bgcolor="#ffffff">盗めるアイテム</TD>
+            <TD bgcolor="#ffffff"></TD>
+          </TR>
+          <TR>
+            <TD colspan="4" bgcolor="#ffffff">直接攻撃とサンダーを連発すれば問題なく勝てます<BR>
+            しっぽを上げている時に攻撃するとテイルレーザーで反撃されるので注意しましょう</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      １０分以内に入り口まで戻ることになる<BR>
+      途中で足をはさまれている<FONT color="#ff0066">ジェシー</FONT>を助けないと入り口ゲートを開けられません
+      <HR>
+      ポーション、フェニックスの尾、マテリア：回復</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>八番街</B></TD>
+      <TD bgcolor="#ffffff">謎の女性に呼び止められる<BR>
+      「気にするな」を選ぶと１ギルで花を買うことができる<BR>
+      警備兵と戦うかを選択できる場面が３回ある<BR>
+      どちらを選んでも展開は同じ
+      <HR>
+      ポーション</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>七番街スラム</B></TD>
+      <TD bgcolor="#ffffff">八番街で花を買った場合ティファとマリンのどちらかに花をあげることができる<BR>
+      ティファに上げると好感度が上がる
+      <HR>
+      ☆初心者の館<BR>
+      マテリア：ぜんたいか、エーテル</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>列車内部</B></TD>
+      <TD bgcolor="#ffffff">カウントダウン中に１両目の右奥にいる人に話しかけると<FONT color="#ff0066">フェニックスの尾</FONT>がもらえる<BR>
+      ２両目の左手前の人に話しかけると<FONT color="#ff0066">ハイポーション</FONT>がもらえる<BR>
+      ３両目にはスリが２人いて近づくと<FONT color="#ff0066">１００ギル</FONT>盗まれる<BR>
+      話しかければ取り返せる</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>螺旋トンネル</B></TD>
+      <TD bgcolor="#ffffff">手前に行くと行き止まりなので、奥へ<BR>
+      緑色のセンサーがある場所の左にハシゴがあるので降りる</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>伍番魔晄炉</B></TD>
+      <TD bgcolor="#ffffff">奥へ行って爆弾をセットする（時間制限はない）<BR>
+      戻って上へ<BR>
+      ３人でタイミングよくボタンを押す<BR>
+      奥で<FONT color="#ff0066">エアバスター</FONT>とバトル！<BR>
+      <TABLE bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD colspan="4" bgcolor="#00ff00">ＶＳ：エアバスター</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＨＰ</TD>
+            <TD bgcolor="#ffffff">１２００</TD>
+            <TD bgcolor="#ffffff">弱点属性</TD>
+            <TD bgcolor="#ffffff">雷</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＭＰ</TD>
+            <TD bgcolor="#ffffff">０</TD>
+            <TD bgcolor="#ffffff">耐性属性</TD>
+            <TD bgcolor="#ffffff">炎半減、土無効、重無効</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＥＸＰ</TD>
+            <TD bgcolor="#ffffff">１８０</TD>
+            <TD bgcolor="#ffffff">有効ステータス</TD>
+            <TD bgcolor="#ffffff"></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＡＰ</TD>
+            <TD bgcolor="#ffffff">１６</TD>
+            <TD bgcolor="#ffffff">落とすアイテム</TD>
+            <TD bgcolor="#ffffff">チタンバングル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ギル</TD>
+            <TD bgcolor="#ffffff">１５０</TD>
+            <TD bgcolor="#ffffff">盗めるアイテム</TD>
+            <TD bgcolor="#ffffff"></TD>
+          </TR>
+          <TR>
+            <TD colspan="4" bgcolor="#ffffff">サイドアタックの状態で戦う<BR>
+            背中に攻撃すると与えるダメージが倍になるが、反撃を受ける<BR>
+            わざと反撃を受けてリミットゲージを溜め、背中にリミット技をたたきこむと楽に倒せる</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      戦闘後、バレットとティファがパーティから抜ける
+      <HR>
+      エーテル×２、ポーション、テント</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>スラムの教会</B></TD>
+      <TD bgcolor="#ffffff">エアリスに待つ、戦う、逃げるの指示を送る<BR>
+      戦う、逃げるを選ぶと敵とバトルになる<BR>
+      待つを選ぶと上に行ってタルをぶつけられる<BR>
+      １回目は左下、２日目は左上、３回目は右上を落とすとバトルせずにすむ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>伍番街スラム</B></TD>
+      <TD bgcolor="#ffffff">民家２階にいる子供の寝言を聞いた後、棚を調べると５ギル手に入る<BR>
+      ただし取らずにいると（選択肢）<A href="#エーテルターボ">七番街崩壊後にエーテルターボが手に入る</A><BR>
+      町の右上からエアリスの家へ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>エアリスの家</B></TD>
+      <TD bgcolor="#ffffff">六番街を通ってウォールマーケットへ
+      <HR>エーテル、マテリア：かばう、ポーション、フェニックスの尾</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>ウォールマーケット</B></TD>
+      <TD bgcolor="#ffffff">蜜蜂の館の前でティファの情報を聞く<BR>
+      コルネオの館の入り口で門番に話しかけるとクラウドが女装することになる<BR>
+      町を歩き回って<FONT color="#ff0066">女装用アイテム</FONT>をそろえよう<BR>
+      ここではコルネオにクラウドが選ばれる組み合わせを紹介します<BR>
+      <BR>
+      １．ドレス<BR>
+      服屋の店員と話した後、酒場の入り口近くで飲んでいるオヤジに話しかけると選択肢が出現<BR>
+      ①さらっとしたの②さわっとしたの＋③きらきらしたの④つやつやしたの<BR>
+      ②と④を選ぶと<FONT color="#ff0066">シルクのドレス</FONT>を作ってくれる<BR>
+      <BR>
+      ２．カツラ<BR>
+      ドレス入手後、男男男の看板がある館でスクワット勝負をする<BR>
+      勝つと<FONT color="#ff0066">ブロンドのかつら</FONT>が手に入る<BR>
+      <BR>
+      ３．コロン<BR>
+      定食屋で何か食べて、選択肢で「まあまあだな」を選ぶと<FONT color="#ff0066">薬屋のクーポン</FONT>がもらえる<BR>
+      薬屋で<FONT color="#ff0066">消化薬</FONT>をもらう<BR>
+      酒場のトイレに入っている人に薬を渡すと<FONT color="#ff0066">セクシーコロン</FONT>がもらえる<BR>
+      <BR>
+      ４．髪飾り<BR>
+      マテリアショップの店員から依頼を受けて、宿屋に泊まると夜中に自動販売機である物が買える<BR>
+      <FONT color="#ff0066">２００ギルの品</FONT>を買ってマテリアショップの店員に渡すと<FONT color="#ff0066">ダイヤのティアラ</FONT>がもらえる<BR>
+      <BR>
+      ５．下着<BR>
+      ウォールマーケット右下にいる男から蜜蜂の館の<FONT color="#ff0066">会員カード</FONT>をもらう<BR>
+      蜜蜂の館の左上の空き部屋に入るとイベント<BR>
+      イベント後、女の子に話しかけると<FONT color="#ff0066">ランジェリー</FONT>がもらえる</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>コルネオの館</B></TD>
+      <TD bgcolor="#ffffff">ティファと合流する<BR>
+      エアリス、ティファ、クラウドの中から１人が選ばれる
+      <HR>
+      エーテル、フェニックスの尾（クラウドが選ばれなかった場合）、興奮剤（クラウドが選ばれた場合）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>地下下水道</B></TD>
+      <TD bgcolor="#ffffff">エアリスとティファの２人に話しかけると<FONT color="#ff0066">アプス</FONT>とバトル！<BR>
+      ２人に話しかける前に準備をしておきましょう<BR>
+      <TABLE bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD colspan="4" bgcolor="#00ff00">ＶＳ：アプス</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＨＰ</TD>
+            <TD bgcolor="#ffffff">１８００</TD>
+            <TD bgcolor="#ffffff">弱点属性</TD>
+            <TD bgcolor="#ffffff">炎</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＭＰ</TD>
+            <TD bgcolor="#ffffff">０</TD>
+            <TD bgcolor="#ffffff">耐性属性</TD>
+            <TD bgcolor="#ffffff">重無効</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＥＸＰ</TD>
+            <TD bgcolor="#ffffff">２４０</TD>
+            <TD bgcolor="#ffffff">有効ステータス</TD>
+            <TD bgcolor="#ffffff"></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＡＰ</TD>
+            <TD bgcolor="#ffffff">２２</TD>
+            <TD bgcolor="#ffffff">落とすアイテム</TD>
+            <TD bgcolor="#ffffff">フェニックスの尾</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ギル</TD>
+            <TD bgcolor="#ffffff">２５３</TD>
+            <TD bgcolor="#ffffff">盗めるアイテム</TD>
+            <TD bgcolor="#ffffff"></TD>
+          </TR>
+          <TR>
+            <TD colspan="4" bgcolor="#ffffff">全体攻撃：下水津波をしてくるのでマテリア：かいふくとぜんたいかを組み合わせて使いましょう</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <HR>
+      ポーション、マテリア：盗む</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>列車墓場</B></TD>
+      <TD bgcolor="#ffffff">奥のマップは列車を２回動かして道をつなげる<BR>
+      まれに出てくるエリゴルからは<FONT color="#ff0066">ストライクロッド</FONT>が盗めます<BR>
+      これをエアリスが装備すると攻撃力が大幅に上がるので、ぜひ盗んでおこう
+      <HR>
+      ポーション×３、ハイポーション×３、やまびこえんまく、エーテル</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>七番街プレート支柱</B></TD>
+      <TD bgcolor="#ffffff">エアリス離脱<BR>
+      最上階で<FONT color="#ff0066">タークス：レノ</FONT>とバトル！<BR>
+      <TABLE bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD colspan="4" bgcolor="#00ff00">ＶＳ：タークス：レノ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＨＰ</TD>
+            <TD bgcolor="#ffffff">１０００</TD>
+            <TD bgcolor="#ffffff">弱点属性</TD>
+            <TD bgcolor="#ffffff"></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＭＰ</TD>
+            <TD bgcolor="#ffffff">０</TD>
+            <TD bgcolor="#ffffff">耐性属性</TD>
+            <TD bgcolor="#ffffff">雷半減</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＥＸＰ</TD>
+            <TD bgcolor="#ffffff">２９０</TD>
+            <TD bgcolor="#ffffff">有効ステータス</TD>
+            <TD bgcolor="#ffffff">重無効</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＡＰ</TD>
+            <TD bgcolor="#ffffff">２２</TD>
+            <TD bgcolor="#ffffff">落とすアイテム</TD>
+            <TD bgcolor="#ffffff">エーテル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ギル</TD>
+            <TD bgcolor="#ffffff">５００</TD>
+            <TD bgcolor="#ffffff">盗めるアイテム</TD>
+            <TD bgcolor="#ffffff"></TD>
+          </TR>
+          <TR>
+            <TD colspan="4" bgcolor="#ffffff">ピラミッドをされると動けなくなるので、物理攻撃で破壊しましょう<BR>
+            全員がピラミッドになると全滅になります</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>六番街</B></TD>
+      <TD bgcolor="#ffffff">公園の下のほうに<FONT color="#ff0066">マテリア：みやぶる</FONT>が落ちている</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>伍番街</B></TD>
+      <TD bgcolor="#ffffff">民家の２階で５ギルをとっていなかった場合、子供に話しかけると<FONT color="#ff0066"><A name="エーテルターボ">エーテルターボ</A></FONT>がもらえる<BR>
+      エアリスの家へ行き、ウォールマーケットに行く</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>ウォールマーケット</B></TD>
+      <TD bgcolor="#ffffff">武器屋で<FONT color="#ff0066">ジンクバッテリー×３</FONT>を３００ギルで買う<BR>
+      コルネオの館の右に行き、ワイヤーを登る</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>プレート断面</B></TD>
+      <TD bgcolor="#ffffff"><FONT color="#ff0066">ジンクバッテリー</FONT>をはめながら先に進む
+      <HR>
+      エーテル</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>神羅ビル<BR>
+      １階～６５階</B></TD>
+      <TD bgcolor="#ffffff">★１階～５９階<BR>
+      ５９階まで裏から行くか表から行くか選びます<BR>
+      裏から行くと敵は出ませんし、途中で<FONT color="#ff0066">エリクサー</FONT>が手に入るので裏からいきましょう<BR>
+      表から行くと敵に会いますし、アイテムは何も手に入りません<BR>
+      ５９階に着いたらエレベータの前にいる強化戦闘員を倒して<FONT color="#ff0066">カードキー６０</FONT>を入手して６０階へ<BR>
+      <BR>
+      ★６０階<BR>
+      警備員の動きを見計らって右にいきましょう<BR>
+      ちなみに４回警備員を倒すと警備員は全滅してしまいます<BR>
+      <BR>
+      ★６１階<BR>
+      歩いている男性社員に<FONT color="#ff0066">カードキー６２</FONT>をもらう<BR>
+      <BR>
+      ★６２階<BR>
+      ドミノ市長と話すとクイズを出される<BR>
+      ４つの部門を調べて、その部門に関係のない資料を見つける<BR>
+      その資料の数字を資料名に当てはめて、４文字の熟語を作る<BR>
+      例えば関係のない資料名が「４　世界で最強のＲＰＧ」であったら、４番目の「最」の字が当てはまる<BR>
+      正解すると<FONT color="#ff0066">カードキー６５</FONT>がもらえる<BR>
+      また１発で正解すると<FONT color="#ff0066">マテリア：ぞくせい</FONT>がもらえるので、必ずもらっておこう<BR>
+      <BR>
+      ★６３階<BR>
+      フロア全体がパズルになっています<BR>
+      <TABLE bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ffffff"><IMG src="map/sinnra biru 63F.PNG" width="375" height="150" border="0"><BR>
+            簡易マップ</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      アイテムを３つとも取るには↑のマップの赤い扉を開いて通風口を通っていけばＯＫです<BR>
+      もらえるアイテムは①フォウスロット　②星のペンダント　③マテリア：ぜんたいか<BR>
+      <BR>
+      ★６４階<BR>
+      休憩場所です。セーブポイントもあります<BR>
+      自動販売機にお金を入れておくとメテオ後に来た時にアイテムが入っている<BR>
+      入手アイテム：エーテル、フェニックスの尾<BR>
+      <BR>
+      ★６５階<BR>
+      <FONT color="#ff0066">ミッドガルのパーツ</FONT>を中央のミッドガルの模型にはめる<BR>
+      すべてはめると階段の横の宝箱が開いて、<FONT color="#ff0066">カードキー６６</FONT>が手に入る</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>神羅ビル<BR>
+      ６６階～７０階</B></TD>
+      <TD bgcolor="#ffffff">★６６階<BR>
+      左上にあるトイレから通気口へ上り、会議をのぞく<BR>
+      宝条の後を追って６７階へ<BR>
+      <BR>
+      ★６７階<BR>
+      ここから上の階に出てくるソルジャー：３ＲＤから<FONT color="#ff0066">ハードブレイカー</FONT>が盗めます<BR>
+      モススラッシャーからは<FONT color="#ff0066">カーボンバングル</FONT>が盗めるのでできれば３つ盗んでおきましょう<BR>
+      セーブポイントのそばに<FONT color="#ff0066">マテリア：どく</FONT>が落ちています<BR>
+      奥のエレベータから６８階へ<BR>
+      <BR>
+      ★６８階<BR>
+      ティファかバレットが抜けて、レッドⅩⅢが入り、<BR>
+      <FONT color="#ff0066">サンプル：Ｈ０５１２</FONT>＋<FONT color="#ff0066">サンプル：Ｈ０５１２－０ＰＴ×３</FONT>とバトル！<BR>
+      <TABLE bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD>
+            <TABLE bgcolor="#0000ff">
+              <TBODY>
+                <TR>
+                  <TD colspan="4" bgcolor="#00ff00">ＶＳ：サンプル：Ｈ０５１２</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＨＰ</TD>
+                  <TD bgcolor="#ffffff">１０００</TD>
+                  <TD bgcolor="#ffffff">弱点属性</TD>
+                  <TD bgcolor="#ffffff"></TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＭＰ</TD>
+                  <TD bgcolor="#ffffff">１２０</TD>
+                  <TD bgcolor="#ffffff">耐性属性</TD>
+                  <TD bgcolor="#ffffff">雷半減、毒吸収、重無効</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＥＸＰ</TD>
+                  <TD bgcolor="#ffffff">３００</TD>
+                  <TD bgcolor="#ffffff">有効ステータス</TD>
+                  <TD bgcolor="#ffffff"></TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＡＰ</TD>
+                  <TD bgcolor="#ffffff">３０</TD>
+                  <TD bgcolor="#ffffff">落とすアイテム</TD>
+                  <TD bgcolor="#ffffff">タリスマン</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ギル</TD>
+                  <TD bgcolor="#ffffff">２５０</TD>
+                  <TD bgcolor="#ffffff">盗めるアイテム</TD>
+                  <TD bgcolor="#ffffff"></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            </TD>
+            <TD>
+            <TABLE bgcolor="#0000ff">
+              <TBODY>
+                <TR>
+                  <TD colspan="4" bgcolor="#00ff00">ＶＳ：サンプル：Ｈ０５１２－０ＰＴ×３</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＨＰ</TD>
+                  <TD bgcolor="#ffffff">３００</TD>
+                  <TD bgcolor="#ffffff">弱点属性</TD>
+                  <TD bgcolor="#ffffff"></TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＭＰ</TD>
+                  <TD bgcolor="#ffffff">４８</TD>
+                  <TD bgcolor="#ffffff">耐性属性</TD>
+                  <TD bgcolor="#ffffff">土無効</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＥＸＰ</TD>
+                  <TD bgcolor="#ffffff">２０</TD>
+                  <TD bgcolor="#ffffff">有効ステータス</TD>
+                  <TD bgcolor="#ffffff"></TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＡＰ</TD>
+                  <TD bgcolor="#ffffff">２</TD>
+                  <TD bgcolor="#ffffff">落とすアイテム</TD>
+                  <TD bgcolor="#ffffff">鎮静剤</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ギル</TD>
+                  <TD bgcolor="#ffffff">０</TD>
+                  <TD bgcolor="#ffffff">盗めるアイテム</TD>
+                  <TD bgcolor="#ffffff"></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            </TD>
+          </TR>
+          <TR>
+            <TD colspan="2" bgcolor="#ffffff">サンプル：Ｈ０５１２－０ＰＴは倒しても復活するので無視しましょう<BR>
+            サンプル：Ｈ０５１２は後列にいるので、炎や冷気属性の魔法で攻撃しましょう<BR>
+            全員を毒にする怪しい息を使ってくるので誰かに毒のペンダントを装備させましょう<BR>
+            毒になっても治さずにそのまま戦いましょう</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      戦闘終了後、<FONT color="#ff0066">マテリア：てきのわざ</FONT>が出現するので取る<BR>
+      助手から<FONT color="#ff0066">カードキー６８</FONT>を入手する<BR>
+      入手アイテム：ポーション×４<BR>
+      <BR>
+      ★６９階<BR>
+      エレーベータに乗るとボスバトルになるので、その前に準備しておく<BR>
+      全員後列に下げて、エアリスかレッドⅩⅢにマテリア：いかずちをつけておきましょう<BR>
+      <TABLE bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD colspan="4" bgcolor="#00ff00">ＶＳ：ハンドレッドガンナー</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＨＰ</TD>
+            <TD bgcolor="#ffffff">１６００</TD>
+            <TD bgcolor="#ffffff">弱点属性</TD>
+            <TD bgcolor="#ffffff">雷</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＭＰ</TD>
+            <TD bgcolor="#ffffff">０</TD>
+            <TD bgcolor="#ffffff">耐性属性</TD>
+            <TD bgcolor="#ffffff">重半減</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＥＸＰ</TD>
+            <TD bgcolor="#ffffff">３３０</TD>
+            <TD bgcolor="#ffffff">有効ステータス</TD>
+            <TD bgcolor="#ffffff"></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＡＰ</TD>
+            <TD bgcolor="#ffffff">３５</TD>
+            <TD bgcolor="#ffffff">落とすアイテム</TD>
+            <TD bgcolor="#ffffff"></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ギル</TD>
+            <TD bgcolor="#ffffff">３００</TD>
+            <TD bgcolor="#ffffff">盗めるアイテム</TD>
+            <TD bgcolor="#ffffff"></TD>
+          </TR>
+          <TR>
+            <TD colspan="4" bgcolor="#ffffff">バレットは物理攻撃、他はサンダーで攻撃しましょう</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <FONT color="#ff0066"><BR>
+      ハンドレッドガンナー</FONT>を倒すとすぐに<FONT color="#ff0066">ヘリガンナー</FONT>とバトル！
+      <TABLE bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD colspan="4" bgcolor="#00ff00">ＶＳ：ヘリガンナー</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＨＰ</TD>
+            <TD bgcolor="#ffffff">１０００</TD>
+            <TD bgcolor="#ffffff">弱点属性</TD>
+            <TD bgcolor="#ffffff">風</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＭＰ</TD>
+            <TD bgcolor="#ffffff">０</TD>
+            <TD bgcolor="#ffffff">耐性属性</TD>
+            <TD bgcolor="#ffffff">土無効</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＥＸＰ</TD>
+            <TD bgcolor="#ffffff">２５０</TD>
+            <TD bgcolor="#ffffff">有効ステータス</TD>
+            <TD bgcolor="#ffffff"></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＡＰ</TD>
+            <TD bgcolor="#ffffff">２５</TD>
+            <TD bgcolor="#ffffff">落とすアイテム</TD>
+            <TD bgcolor="#ffffff">ミスリルの腕輪</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ギル</TD>
+            <TD bgcolor="#ffffff">２００</TD>
+            <TD bgcolor="#ffffff">盗めるアイテム</TD>
+            <TD bgcolor="#ffffff"></TD>
+          </TR>
+          <TR>
+            <TD colspan="4" bgcolor="#ffffff">バレットは物理攻撃、他はサンダーで攻撃しましょう</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <BR>
+      クラウド１人で<FONT color="#ff0066">ルーファウス＋ダークネイション</FONT>とバトル！<BR>
+      <TABLE bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD>
+            <TABLE bgcolor="#0000ff">
+              <TBODY>
+                <TR>
+                  <TD colspan="4" bgcolor="#00ff00">ＶＳ：ルーファウス</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＨＰ</TD>
+                  <TD bgcolor="#ffffff">５００</TD>
+                  <TD bgcolor="#ffffff">弱点属性</TD>
+                  <TD bgcolor="#ffffff"></TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＭＰ</TD>
+                  <TD bgcolor="#ffffff">０</TD>
+                  <TD bgcolor="#ffffff">耐性属性</TD>
+                  <TD bgcolor="#ffffff">重無効</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＥＸＰ</TD>
+                  <TD bgcolor="#ffffff">２４０</TD>
+                  <TD bgcolor="#ffffff">有効ステータス</TD>
+                  <TD bgcolor="#ffffff"></TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＡＰ</TD>
+                  <TD bgcolor="#ffffff">３５</TD>
+                  <TD bgcolor="#ffffff">落とすアイテム</TD>
+                  <TD bgcolor="#ffffff">防弾チョッキ</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ギル</TD>
+                  <TD bgcolor="#ffffff">４００</TD>
+                  <TD bgcolor="#ffffff">盗めるアイテム</TD>
+                  <TD bgcolor="#ffffff"></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            </TD>
+            <TD>
+            <TABLE bgcolor="#0000ff">
+              <TBODY>
+                <TR>
+                  <TD colspan="4" bgcolor="#00ff00">ＶＳ：ダークネイション</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＨＰ</TD>
+                  <TD bgcolor="#ffffff">１４０</TD>
+                  <TD bgcolor="#ffffff">弱点属性</TD>
+                  <TD bgcolor="#ffffff"></TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＭＰ</TD>
+                  <TD bgcolor="#ffffff">８０</TD>
+                  <TD bgcolor="#ffffff">耐性属性</TD>
+                  <TD bgcolor="#ffffff"></TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＥＸＰ</TD>
+                  <TD bgcolor="#ffffff">７０</TD>
+                  <TD bgcolor="#ffffff">有効ステータス</TD>
+                  <TD bgcolor="#ffffff"></TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ＡＰ</TD>
+                  <TD bgcolor="#ffffff">７</TD>
+                  <TD bgcolor="#ffffff">落とすアイテム</TD>
+                  <TD bgcolor="#ffffff">ガードアップ</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#ffffff">ギル</TD>
+                  <TD bgcolor="#ffffff">２５０</TD>
+                  <TD bgcolor="#ffffff">盗めるアイテム</TD>
+                  <TD bgcolor="#ffffff"></TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            </TD>
+          </TR>
+          <TR>
+            <TD colspan="2" bgcolor="#ffffff">ガードアップが欲しいなら先にダークネイションを倒しましょう<BR>
+            物理攻撃はあまり効果がないので魔法で攻撃しましょう</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      バイクに乗る前にボス戦の準備ができる<BR>
+      １．ボス戦はバックアタックになるので物理攻撃をするキャラは後列にしておく<BR>
+      ２．ＨＰの低いキャラは防具にマテリア：ぞくせいとほのおをつけておく<BR>
+      <BR>
+      バイクに乗るとミニゲームが始まる<BR>
+      最後に<FONT color="#ff0066">モーターボール</FONT>とバトル！<BR>
+      <TABLE bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD colspan="4" bgcolor="#00ff00">ＶＳ：モーターボール</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＨＰ</TD>
+            <TD bgcolor="#ffffff">２６００</TD>
+            <TD bgcolor="#ffffff">弱点属性</TD>
+            <TD bgcolor="#ffffff">雷</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＭＰ</TD>
+            <TD bgcolor="#ffffff">１２０</TD>
+            <TD bgcolor="#ffffff">耐性属性</TD>
+            <TD bgcolor="#ffffff">炎半減、重無効</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＥＸＰ</TD>
+            <TD bgcolor="#ffffff">４４０</TD>
+            <TD bgcolor="#ffffff">有効ステータス</TD>
+            <TD bgcolor="#ffffff"></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ＡＰ</TD>
+            <TD bgcolor="#ffffff">４５</TD>
+            <TD bgcolor="#ffffff">落とすアイテム</TD>
+            <TD bgcolor="#ffffff">星のペンダント</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ギル</TD>
+            <TD bgcolor="#ffffff">３５０</TD>
+            <TD bgcolor="#ffffff">盗めるアイテム</TD>
+            <TD bgcolor="#ffffff"></TD>
+          </TR>
+          <TR>
+            <TD colspan="4" bgcolor="#ffffff">サンダー中心に攻撃すれば問題なく勝てます</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<P align="center"><B><FONT size="+3"><A href="scenario2.FF7.html">シナリオ攻略２へ</A></FONT></B></P>
+</BODY>
+</HTML>

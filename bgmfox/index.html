@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" href="navi.css" type="text/css" media="screen" charset="UTF-8" />
+<link rel="stylesheet" href="top.css" type="text/css" media="screen" charset="UTF-8" />
+<script type="text/javascript">
+<!--//
+function links(){
+linkurl=links.arguments[1];
+document.write(linkurl.link(links.arguments[2] + links.arguments[0] + links.arguments[3]));
+}
+//--></script>
+<title>BGM Fox</title>
+</head>
+<body>
+	<div class="title">
+		<a href="index.html">
+			<img src="images/title.png" alt="title" />
+		</a>
+	</div>
+
+	<div id="navi">
+		<table>
+			<tr>
+				<td>
+					<a href="index.html">トップ</a>
+				</td>
+				<td>
+					<a href="features.html">機能</a>
+				</td>
+				<td id="endNavi">
+					<a href="http://bgmfox-support.appspot.com/">掲示板</a>
+				</td>
+			</tr>
+		</table>
+	</div>
+
+	<div id="contents">
+		<div id="big-thumbnail">
+			<img src="images/big_thumbnail.png" alt=""/>
+		</div>
+
+		<div>
+			<h1>BGM Foxとは</h1>
+			<ul>
+				<li>Firefoxのサイドバー上でニコニコ動画とYouTubeの動画をまとめて扱うことが出来るアドオンです．</li>
+				<li>名前から分かるようにそれらの動画をまるで音楽のように扱うことができます．</li>
+				<li>具体的にはサイドバー上で動画の検索，再生そしてプレイリストで動画を管理できます．</li>
+				<li>動画画面を開かなくても再生，シーク，音量の調節などは全て上のコントロールバーでできます．</li>
+			</ul>
+
+			<h1>使用上の注意</h1>
+			<ul>
+				<li>ニコニコ動画へのツール経由のアクセスは原則として禁止されているようです（<a href="http://blog.nicovideo.jp/2008/03/api.php" >開発者ブログ</a>より）．</li>
+				<li>従って，使用は自己責任でお願いします．当アドオンを使用することで発生したいかなるトラブルに関して一切の責任を負いません．</li>
+				<li>また，ニコニコ動画の仕様変更に伴い，当アドオンは使用できなくなる可能性があります．予めご了承下さい．</li>
+			</ul>
+
+			<h1>ダウンロード</h1>
+			<ul>
+				<li>ダウンロードは<a href="https://addons.mozilla.org/ja/firefox/addon/14289/">こちら</a>からお願いします．</li>
+			</ul>
+
+			<h1>既知の不具合</h1>
+			<ul>
+				<li>Adblock Plusを入れているとYoutubeの動画が再生が出来ません．</li>
+				<li>NoScriptを使っている方は nicovideo.jp, youtube.com, ytimg.com, suplik.net を許可しないと動画の再生ができません．</li>
+				<li>ニコニコ動画，YouTube共に一部再生できない動画があります．</li>
+			</ul>
+
+			<h1>更新履歴</h1>
+			<ul>
+				<li>2009年10月17日   既知の不具合，機能ページ更新</li>
+				<li>2009年09月12日   サイトオープン</li>
+			</ul>
+		</div>
+	</div>
+
+	<div id="footer">
+
+   	<div id="footer-text">Copyright(c) Shinichi Katayama 2009 All Rights Reserved.</div>
+	</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10635335-5");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

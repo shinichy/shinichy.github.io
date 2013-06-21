@@ -1,0 +1,45 @@
+﻿body {
+	position: relative;
+}
+
+a img {
+  border-style:none;
+}
+
+div.title img {
+	height: 50px;
+	margin: 10px;
+}
+
+div#navi td {
+	border-right: thin blue dotted;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+div.title {
+	background-image: url('images/title_back.png')
+}
+
+div#navi {
+	position: absolute;
+	left: 500px;
+	top: 40px;
+	font-size: medium;
+}
+
+div#navi td#endNavi {
+	border-right: 0px white solid;
+}
+
+div#footer {
+	border-top: thin black dotted;
+	position: relative;
+	height: 40px;
+}
+
+div#footer-text {
+	top: 20px;
+	left: 480px;
+	position: absolute;
+}

@@ -1,0 +1,517 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META name="GENERATOR" content="IBM WebSphere Homepage Builder V6.0.0 for Windows">
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE>なりダン２－総合データベース</TITLE>
+</HEAD>
+<BODY text="#0f3700" bgcolor="#f0ffe6" link="#fa5000" vlink="#808080" alink="#008080">
+<H1 align="center">テイルズ　オブ　ザ　ワールド　なりきりダンジョン２<BR>
+総合データベース</H1>
+<HR>
+<H2 align="center">テイルズキャラの出会い方</H2>
+<P align="center">キャラクター図鑑の順です</P>
+<CENTER>
+<TABLE bgcolor="#00ff00">
+  <TBODY>
+    <TR>
+      <TD colspan="2" align="center" bgcolor="#00ffff"><FONT color="#3366ff">テイルズ　オブ　ファンタジア</FONT></TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">クレス</TD>
+      <TD bgcolor="#ffffff"><A href="quest2.naridan2.html#サナトスクエスト１">１個目の黒水晶を壊すクエスト</A>をクリアする</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">チェスター</TD>
+      <TD bgcolor="#ffffff">アミィの服を着て町をうろつく</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">ミント</TD>
+      <TD bgcolor="#ffffff">最初からいます</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">クラース</TD>
+      <TD bgcolor="#ffffff">１個目の黒水晶を壊した後、漆黒の坑道入り口に出現する</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">アーチェ</TD>
+      <TD bgcolor="#ffffff">キャロがウィッチ系の服を着てパブ・ローズに行く<BR>
+      その後ローズから<A href="quest.naridan2.html#アーチェをこらしめる">食い逃げ犯をこらしめるクエスト</A>を引き受ける<BR>
+      アーチェとバトルして勝つ</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">すず</TD>
+      <TD bgcolor="#ffffff">キャロが忍者系の服を着て町をうろつく</TD>
+    </TR>
+    <TR>
+      <TD colspan="2" align="center" bgcolor="#00ffff"><FONT color="#3366ff">テイルズ　オブ　ディスティニー</FONT></TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">スタン</TD>
+      <TD bgcolor="#ffffff">ルーティが現れた後、ルーティの好感度を上げると現れる</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">ルーティ</TD>
+      <TD bgcolor="#ffffff">ポルポルから<A href="quest.naridan2.html#ルーティ＋マリー">レンズ探しのクエスト</A>を受けて、ルーティ＋マリーとバトルする。</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">リオン</TD>
+      <TD bgcolor="#ffffff"><A href="quest2.naridan2.html#サナトスクエスト４">４個目の黒水晶を壊すクエスト</A>をクリアする</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">フィリア</TD>
+      <TD bgcolor="#ffffff">浮遊死都３階で石化しているのでドクターorナースの服で治す</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">ウッドロウ</TD>
+      <TD bgcolor="#ffffff">イベントバトル（勝敗に関係のない戦闘）以外の戦闘で２回全滅する</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">チェルシー</TD>
+      <TD bgcolor="#ffffff">ウッドロウと同じ</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">マリー</TD>
+      <TD bgcolor="#ffffff">ルーティと同じ</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">コングマン</TD>
+      <TD bgcolor="#ffffff">試練の塔１階でスタンがいる状態でコングマンに話しかけてバトルする<BR>
+      ※スタンの服を着ていてもよい</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">ジョニー</TD>
+      <TD bgcolor="#ffffff">フリオが音楽家の服を着てパブ・ローズに行く</TD>
+    </TR>
+    <TR>
+      <TD colspan="2" align="center" bgcolor="#00ffff"><FONT color="#3366ff">テイルズ　オブ　エターニア</FONT></TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">リッド</TD>
+      <TD bgcolor="#ffffff"><A href="quest2.naridan2.html#サナトスクエスト２">２個目の黒水晶を壊すクエスト</A>をクリアする</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">ファラ</TD>
+      <TD bgcolor="#ffffff">リッドと同じ</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">キール</TD>
+      <TD bgcolor="#ffffff">２個目の黒水晶を壊した後、狩人の森の採取場に現れる</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">メルディ</TD>
+      <TD bgcolor="#ffffff">キールと同じ</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">フォッグ</TD>
+      <TD bgcolor="#ffffff">４個目の黒水晶を壊した後、幻の城でねこにんの服を着てフォッグに話しかける</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">チャット</TD>
+      <TD bgcolor="#ffffff">ポルポルのクエストを３回クリアするとポルポル工房に現れる</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#ffffff">レイス</TD>
+      <TD bgcolor="#ffffff">リッドと同じ</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<H2 align="center"><A name="テイルズキャラの服の作り方">テイルズキャラの服の作り方</A></H2>
+<P align="center">元になる服のＬＶは１５以上<BR>
+男キャラはフリオ、女キャラはキャロしか作れません</P>
+<CENTER>
+<TABLE bgcolor="#00ff00">
+  <TBODY>
+    <TR>
+      <TD colspan="2" bgcolor="#00ffff" align="center"><FONT color="#3366ff">テイルズ　オブ　ファンタジア</FONT></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">クレス</TD>
+      <TD bgcolor="#ffffff" align="left">エターナルソード＋聖剣士（剣士系の光）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">チェスター</TD>
+      <TD bgcolor="#ffffff" align="left">エルヴンボウ＋アーチャー系</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ミント</TD>
+      <TD bgcolor="#ffffff" align="left">スターメイス＋クレリック系orモデル</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">クラース</TD>
+      <TD bgcolor="#ffffff" align="left">ネクロノミコン＋学者系</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">アーチェ</TD>
+      <TD bgcolor="#ffffff" align="left">アーチェのリボン＋ウィッチ系</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">すず</TD>
+      <TD bgcolor="#ffffff" align="left">にんとうちざくら＋忍者系</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">アミィ</TD>
+      <TD bgcolor="#ffffff" align="left">マスコット＋ワンダーシェフ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ミラルド</TD>
+      <TD bgcolor="#ffffff" align="left">魔術のススメ＋発明家（学者系の闇）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ダオス</TD>
+      <TD bgcolor="#ffffff" align="left">エレメントオーブ＋ネクロマンサー（ウィッチ系の闇）</TD>
+    </TR>
+    <TR>
+      <TD colspan="2" bgcolor="#00ffff" align="center"><FONT color="#3366ff">テイルズ　オブ　ディスティニー</FONT></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">スタン</TD>
+      <TD bgcolor="#ffffff" align="left">マム・ベイン＋炎剣士（剣士系の炎）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ルーティ</TD>
+      <TD bgcolor="#ffffff" align="left">レンズ＋スパイ（盗賊系の風）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">リオン</TD>
+      <TD bgcolor="#ffffff" align="left">スターグローブ＋魔剣士（剣士系の闇）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">フィリア</TD>
+      <TD bgcolor="#ffffff" align="left">アンクベレット＋学者系</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ウッドロウ</TD>
+      <TD bgcolor="#ffffff" align="left">スターヘルム＋アーチャー系or剣士（無属性）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">チェルシー</TD>
+      <TD bgcolor="#ffffff" align="left">クレセントアロー＋アーチャー系</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">マリー</TD>
+      <TD bgcolor="#ffffff" align="left">金のフライパン＋ワンダーシェフ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">コングマン</TD>
+      <TD bgcolor="#ffffff" align="left">チャンピオンベルト＋格闘家系</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ジョニー</TD>
+      <TD bgcolor="#ffffff" align="left">リュート＋音楽家</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">リリス</TD>
+      <TD bgcolor="#ffffff" align="left">ぎんのおたま＋あじむしゃ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ディムロス</TD>
+      <TD bgcolor="#ffffff" align="left">コアクリスタル＋トリックスター（てじなし＋シルクハット）</TD>
+    </TR>
+    <TR>
+      <TD colspan="2" bgcolor="#00ffff" align="center"><FONT color="#3366ff">テイルズ　オブ　エターニア</FONT></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">リッド</TD>
+      <TD bgcolor="#ffffff" align="left">ラストフェンサー＋聖剣士（剣士系の光）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ファラ</TD>
+      <TD bgcolor="#ffffff" align="left">ラシュアン染め＋格闘家系orワンダーシェフ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">キール</TD>
+      <TD bgcolor="#ffffff" align="left">クレーメルケイジ＋天文学者（学者系の闇）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">メルディ</TD>
+      <TD bgcolor="#ffffff" align="left">ホイッスル＋ねこにん＋ダンサー</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">フォッグ</TD>
+      <TD bgcolor="#ffffff" align="left">ミアキスバッジ＋アーチャー系</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">チャット</TD>
+      <TD bgcolor="#ffffff" align="left">アイフリードハット＋海賊（盗賊系の水）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">レイス</TD>
+      <TD bgcolor="#ffffff" align="left">セイントレイピア＋剣士系＋商人</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">セルシウス</TD>
+      <TD bgcolor="#ffffff" align="left">フリーズリング＋ひょうせつとうし（格闘家系の水）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ワルキューレ</TD>
+      <TD bgcolor="#ffffff" align="left">時の鍵＋聖剣士（剣士系の光）</TD>
+    </TR>
+    <TR>
+      <TD colspan="2" bgcolor="#00ffff" align="center"><FONT color="#3366ff">その他</FONT></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ドリラー</TD>
+      <TD bgcolor="#ffffff" align="left">ドリル＋ちしつ学者（学者系の土）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">あじむしゃ</TD>
+      <TD bgcolor="#ffffff">あじむしゃの証＋ワンダーシェフ</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<H2 align="center"><A name="レアルーツアイテム">レアルーツアイテム</A></H2>
+<P align="center">基本的にテイルズキャラの好感度を上げるともらえます</P>
+<CENTER>
+<TABLE bgcolor="#00ff00">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">エターナルソード</TD>
+      <TD bgcolor="#ffffff">ポルポルのクエストを４つクリアすると作る</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">エレメントオーブ</TD>
+      <TD bgcolor="#ffffff">幻の城でダオスを倒す</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ぎんのおたま</TD>
+      <TD bgcolor="#ffffff">ラストダンジョンの宝箱、スタンにマーボーカレーを渡す</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">スターグローブ</TD>
+      <TD bgcolor="#ffffff">リオン？を倒す</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">時の鍵</TD>
+      <TD bgcolor="#ffffff">試練の塔でワルキューレを倒す</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ドリル</TD>
+      <TD bgcolor="#ffffff">コアクリスタルを探すクエストをクリア後チャットが作る</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">フリーズリング</TD>
+      <TD bgcolor="#ffffff">万年氷洞でセルシウスを倒す</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">マスコット</TD>
+      <TD bgcolor="#ffffff">クレスの好感度を上げる</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">魔術のススメ</TD>
+      <TD bgcolor="#ffffff">クラースの好感度を上げる</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ラストフェンサー</TD>
+      <TD bgcolor="#ffffff">ポルポルが作る</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">コアクリスタル</TD>
+      <TD bgcolor="#ffffff" align="left">浮遊死都の宝箱</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff">あじむしゃの証</TD>
+      <TD bgcolor="#ffffff">ジャンの好感度を上げる</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<H2 align="center"><A name="敵から盗めるレアルーツ">敵から盗めるレアルーツ</A></H2>
+<CENTER>
+<TABLE bgcolor="#00ff00">
+  <TBODY>
+    <TR>
+      <TD colspan="2" bgcolor="#00ffff" align="center"><FONT color="#3366ff">テイルズ　オブ　ファンタジア</FONT></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">エターナルソード</TD>
+      <TD bgcolor="#ffffff">サンダーソード（水の古城）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">エルヴンボウ</TD>
+      <TD bgcolor="#ffffff">ヨイチ（水の古城）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">スターメイス</TD>
+      <TD bgcolor="#ffffff">スーパースター（万年氷洞）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ネクロノミコン</TD>
+      <TD bgcolor="#ffffff">メガデス（浮遊死都）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">アーチェのリボン</TD>
+      <TD bgcolor="#ffffff">バッファロー（狩人の森）、アーチェ（クエスト）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">にんとうちざくら</TD>
+      <TD bgcolor="#ffffff">ブリーズキーパー（狩人の森）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">マスコット</TD>
+      <TD bgcolor="#ffffff">メデューサ（万年氷洞）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">魔術のススメ</TD>
+      <TD bgcolor="#ffffff">バンダースナッチ（水の古城）</TD>
+    </TR>
+    <TR>
+      <TD colspan="2" bgcolor="#00ffff" align="center"><FONT color="#3366ff">テイルズ　オブ　ディスティニー</FONT></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">マム・ベイン</TD>
+      <TD bgcolor="#ffffff">ガロー（漆黒の坑道）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">レンズ</TD>
+      <TD bgcolor="#ffffff">アイアンゴーレム（漆黒の坑道）、ルーティ（クエスト）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">スターグローブ</TD>
+      <TD bgcolor="#ffffff">クラーケン（水の古城）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">アンクベレット</TD>
+      <TD bgcolor="#ffffff">ワイバーン</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">スターヘルム</TD>
+      <TD bgcolor="#ffffff">トールマン（狩人の森）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">クレセントアロー</TD>
+      <TD bgcolor="#ffffff">シャドウサーバント（狩人の森）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">金のフライパン</TD>
+      <TD bgcolor="#ffffff">マリー（クエスト）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">チャンピオンベルト</TD>
+      <TD bgcolor="#ffffff" align="left">コングマン（クエスト）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">リュート</TD>
+      <TD bgcolor="#ffffff">スピリット（漆黒の坑道）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">銀のおたま</TD>
+      <TD bgcolor="#ffffff">たまてばこ（宝箱）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">コアクリスタル</TD>
+      <TD bgcolor="#ffffff">ダークソード、フレイムソード、ライトソード</TD>
+    </TR>
+    <TR>
+      <TD colspan="2" bgcolor="#00ffff" align="center"><FONT color="#3366ff">テイルズ　オブ　エターニア</FONT></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ラストフェンサー</TD>
+      <TD bgcolor="#ffffff">エレキガード（水の古城）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ラシュアン染め</TD>
+      <TD bgcolor="#ffffff">けんおう（水の古城）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">クレーメルケイジ</TD>
+      <TD bgcolor="#ffffff">ライトメイジ（試練の塔）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ホイッスル</TD>
+      <TD bgcolor="#ffffff">ドレイク（試練の塔）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ミアキスバッジ</TD>
+      <TD bgcolor="#ffffff">ヘルカイト（試練の塔）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">アイフリードハット</TD>
+      <TD bgcolor="#ffffff">ラウカマール（狩人の森）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">セイントレイピア</TD>
+      <TD bgcolor="#ffffff">ビーストオーガ（漆黒の坑道）</TD>
+    </TR>
+    <TR>
+      <TD colspan="2" bgcolor="#00ffff" align="center"><FONT color="#3366ff">その他</FONT></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">ドリル</TD>
+      <TD bgcolor="#ffffff">ミスリルゴーレム（漆黒の坑道）</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff" align="center">あじむしゃの証</TD>
+      <TD bgcolor="#ffffff">ゴッドハンド</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<H2 align="center">レアボーナスアビリティ</H2>
+<CENTER>
+<TABLE bgcolor="#00ff00">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#ffffff">ちからＵＰ</TD>
+      <TD bgcolor="#ffffff">ワンダーシェフ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff">まりょくＵＰ</TD>
+      <TD bgcolor="#ffffff">おどりこ、モデル</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff">みがるさＵＰ</TD>
+      <TD bgcolor="#ffffff">ギャンブラー</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff">ＴＰせつやく（2/3)</TD>
+      <TD bgcolor="#ffffff">あそびにん</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff">はやくち</TD>
+      <TD bgcolor="#ffffff">商人</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff">急成長</TD>
+      <TD bgcolor="#ffffff">音楽家</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff">きょうだ</TD>
+      <TD bgcolor="#ffffff">ねこにん</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<H2 align="center"><A name="おまけ">おまけ</A></H2>
+<CENTER>
+<TABLE border="1">
+  <TBODY>
+    <TR>
+      <TD>修行でレアルーツ</TD>
+      <TD>テイルズキャラと修行に行き、ランクＡを取るとそのキャラの服のルーツがもらえます</TD>
+    </TR>
+    <TR>
+      <TD>○○ＵＰの謎</TD>
+      <TD>ボーナスアビリティの○○ＵＰはその能力値が９９９でもアップします（１０００を超える）</TD>
+    </TR>
+    <TR>
+      <TD></TD>
+      <TD></TD>
+    </TR>
+    <TR>
+      <TD></TD>
+      <TD></TD>
+    </TR>
+    <TR>
+      <TD></TD>
+      <TD></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<P><A href="top.naridan2.html">TOPへ</A></P>
+</BODY>
+</HTML>

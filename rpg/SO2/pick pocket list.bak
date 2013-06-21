@@ -1,0 +1,1336 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 7.0.0.0 for Windows">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE>ピックポケットリスト</TITLE>
+</HEAD>
+<BODY text="#000000" bgcolor="#a3e0e0" link="#ffff66" vlink="#999999" alink="#bc7a7a">
+<H1 align="center">ピックポケットリスト</H1>
+<CENTER>ＰＡはプライベートアクションの略<BR>
+ＰＡ　は起こるＰＡが何もないとき<BR>
+ＰＡ○　は<A href="private action list.html">プライベートアクションリスト</A>のＰＡ番号です</CENTER>
+<HR>
+<H2 align="center"><A name="アーリア村">アーリア村</A></H2>
+<CENTER>
+<TABLE>
+  <TBODY>
+    <TR>
+      <TD bgcolor="#0000ff">
+      <TABLE border="1">
+        <TBODY>
+          <TR>
+            <TD rowspan="6" bgcolor="#cccccc" align="center">マップ入り口</TD>
+            <TD bgcolor="#ffffff">ルシオ</TD>
+            <TD bgcolor="#ffffff">１００フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若い娘</TD>
+            <TD bgcolor="#ffffff">ブラックベリィ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">老人</TD>
+            <TD bgcolor="#ffffff">１００フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">クロード　ＰＡ</TD>
+            <TD bgcolor="#ffffff">アタックボトル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">アシュトン　ＰＡ</TD>
+            <TD bgcolor="#ffffff">ネックレス</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">レオン　ＰＡ</TD>
+            <TD bgcolor="#ffffff">ヘルメスの理論</TD>
+          </TR>
+          <TR>
+            <TD rowspan="6" bgcolor="#cccccc" align="center">マップ右</TD>
+            <TD bgcolor="#ffffff">男</TD>
+            <TD bgcolor="#ffffff">ブルーベリィ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">女の子</TD>
+            <TD bgcolor="#ffffff">２４フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">おばあちゃん</TD>
+            <TD bgcolor="#ffffff">野菜</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">セリーヌ　ＰＡ</TD>
+            <TD bgcolor="#ffffff">リキュールボトル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ディアス　ＰＡ</TD>
+            <TD bgcolor="#ffffff">シルバーグリーブ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ケティル　※１</TD>
+            <TD bgcolor="#ffffff">ゴールドリング</TD>
+          </TR>
+          <TR>
+            <TD rowspan="5" bgcolor="#cccccc" align="center">ベルディング教会</TD>
+            <TD bgcolor="#ffffff">若い娘</TD>
+            <TD bgcolor="#ffffff">サワーシロップ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">男の子</TD>
+            <TD bgcolor="#ffffff">１０フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">神父</TD>
+            <TD bgcolor="#ffffff">シルバークロス</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">夫人　※１</TD>
+            <TD bgcolor="#ffffff">ブルーベリィ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">エルネスト　ＰＡ</TD>
+            <TD bgcolor="#ffffff">万年筆</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </TD>
+      <TD>
+      <TABLE border="1" bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD rowspan="2" bgcolor="#cccccc" align="center">民家（入り口）</TD>
+            <TD bgcolor="#ffffff">夫</TD>
+            <TD bgcolor="#ffffff">１０フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">妻</TD>
+            <TD bgcolor="#ffffff">レインボーダイヤ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#cccccc" align="center">レナの家</TD>
+            <TD bgcolor="#ffffff">ウェスタ</TD>
+            <TD bgcolor="#ffffff">ネックレス</TD>
+          </TR>
+          <TR>
+            <TD rowspan="3" bgcolor="#cccccc" align="center">雑貨屋</TD>
+            <TD bgcolor="#ffffff">ハーン</TD>
+            <TD bgcolor="#ffffff">１２０フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">アシュトン　ＰＡ４</TD>
+            <TD bgcolor="#ffffff">ハードリング</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若い女　※１</TD>
+            <TD bgcolor="#ffffff">５００フォル</TD>
+          </TR>
+          <TR>
+            <TD rowspan="3" bgcolor="#cccccc" align="center">民家（右）</TD>
+            <TD bgcolor="#ffffff">ボスマン</TD>
+            <TD bgcolor="#ffffff">韋駄天シップ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">男の子</TD>
+            <TD bgcolor="#ffffff">石ころ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">女の子</TD>
+            <TD bgcolor="#ffffff">いちごジャム</TD>
+          </TR>
+          <TR>
+            <TD rowspan="3" bgcolor="#cccccc" align="center">村長レジスの家</TD>
+            <TD bgcolor="#ffffff">村長レジス</TD>
+            <TD bgcolor="#ffffff">リザレクトボトル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">お手伝い</TD>
+            <TD bgcolor="#ffffff">目玉焼き</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">オペラ　ＰＡ</TD>
+            <TD bgcolor="#ffffff">紙くず</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <BR>
+      ※１　クリク崩壊後</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<HR>
+<H2 align="center"><A name="サルバの町">サルバの町</A></H2>
+<CENTER>
+<TABLE border="0">
+  <TBODY>
+    <TR>
+      <TD>
+      <TABLE border="1" bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD rowspan="11" align="center" bgcolor="#cccccc">マップ下</TD>
+            <TD bgcolor="#ffffff">おばあさん</TD>
+            <TD bgcolor="#ffffff">スペクタクルズ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">子供</TD>
+            <TD bgcolor="#ffffff">ペットの餌</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若者</TD>
+            <TD bgcolor="#ffffff">パラライチェック</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若者</TD>
+            <TD bgcolor="#ffffff">２４フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若者</TD>
+            <TD bgcolor="#ffffff">トリカブト</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">女性</TD>
+            <TD bgcolor="#ffffff">ゴールドアイドル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">女性</TD>
+            <TD bgcolor="#ffffff">オルゴール</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">レナ　ＰＡ</TD>
+            <TD bgcolor="#ffffff">サファイア</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">セリーヌ　ＰＡ</TD>
+            <TD bgcolor="#ffffff">サキュバスコロン</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">レオン　ＰＡ</TD>
+            <TD bgcolor="#ffffff">大地の秘密</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">エルネスト　ＰＡ</TD>
+            <TD bgcolor="#ffffff">シルバーリング</TD>
+          </TR>
+          <TR>
+            <TD rowspan="2" align="center" bgcolor="#cccccc">民家</TD>
+            <TD bgcolor="#ffffff">母親</TD>
+            <TD bgcolor="#ffffff">リザレクトボトル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">男の子</TD>
+            <TD bgcolor="#ffffff">ダミードール</TD>
+          </TR>
+          <TR>
+            <TD align="center" bgcolor="#cccccc">ジャム屋</TD>
+            <TD bgcolor="#ffffff">そばかすの娘ユキ</TD>
+            <TD bgcolor="#ffffff">りんごジャム</TD>
+          </TR>
+          <TR>
+            <TD rowspan="4" align="center" bgcolor="#cccccc">宿屋</TD>
+            <TD bgcolor="#ffffff">イワットビ</TD>
+            <TD bgcolor="#ffffff">うら帳簿</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">旅人</TD>
+            <TD bgcolor="#ffffff">メンタルポット</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">観光客</TD>
+            <TD bgcolor="#ffffff">韋駄天シップ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">クロード　ＰＡ</TD>
+            <TD bgcolor="#ffffff">スエードブーツ</TD>
+          </TR>
+          <TR>
+            <TD rowspan="4" align="center" bgcolor="#cccccc">武器屋、宝石屋</TD>
+            <TD bgcolor="#ffffff">フェイ</TD>
+            <TD bgcolor="#ffffff">クリスタル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">セリーヌ　ＰＡ３</TD>
+            <TD bgcolor="#ffffff">リリストニック</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">アシュトン　ＰＡ３</TD>
+            <TD bgcolor="#ffffff">シルバーペンダント</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ファーガスン</TD>
+            <TD bgcolor="#ffffff">アイアングリーブ</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <BR>
+      ※１　サルバ坑道で龍騒動が起きている間</TD>
+      <TD>
+      <TABLE border="1" bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD rowspan="10" bgcolor="#cccccc" align="center">マップ上</TD>
+            <TD bgcolor="#ffffff">若い娘</TD>
+            <TD bgcolor="#ffffff">ピンボケ写真</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若い娘</TD>
+            <TD bgcolor="#ffffff">ルビー</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">女の子</TD>
+            <TD bgcolor="#ffffff">シルバーアイドル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若者</TD>
+            <TD bgcolor="#ffffff">５００フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">男</TD>
+            <TD bgcolor="#ffffff">マジカルクレイ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">男</TD>
+            <TD bgcolor="#ffffff">アルテミスリーフ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">じじい</TD>
+            <TD bgcolor="#ffffff">リザレクトボトル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">戦士　※１</TD>
+            <TD bgcolor="#ffffff">なまくらソード</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">アシュトン　ＰＡ</TD>
+            <TD bgcolor="#ffffff">シルバーペンダント</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">プリシス　ＰＡ</TD>
+            <TD bgcolor="#ffffff">マテリアルキット</TD>
+          </TR>
+          <TR>
+            <TD rowspan="11" bgcolor="#cccccc" align="center">酒場</TD>
+            <TD bgcolor="#ffffff">バーテン</TD>
+            <TD bgcolor="#ffffff">リキュールボトル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">才能に悩む若者</TD>
+            <TD bgcolor="#ffffff">リザレクトボトル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">労働者</TD>
+            <TD bgcolor="#ffffff">三倍増醸酒</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">労働者</TD>
+            <TD bgcolor="#ffffff">シルバー</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">労働者</TD>
+            <TD bgcolor="#ffffff">ゴールド</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">戦士　※１</TD>
+            <TD bgcolor="#ffffff">アイアンヘルム</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">戦士　※１</TD>
+            <TD bgcolor="#ffffff">細身の剣</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">戦士　※１</TD>
+            <TD bgcolor="#ffffff">バンデッドメイル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">戦士　※１</TD>
+            <TD bgcolor="#ffffff">ビクトリアルカード</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">戦士　※１</TD>
+            <TD bgcolor="#ffffff">バスタードソード</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ディアス　ＰＡ</TD>
+            <TD bgcolor="#ffffff">ファインシールド</TD>
+          </TR>
+          <TR>
+            <TD rowspan="5" bgcolor="#cccccc" align="center">アレンの屋敷</TD>
+            <TD bgcolor="#ffffff">執事</TD>
+            <TD bgcolor="#ffffff">ワイン</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">コック</TD>
+            <TD bgcolor="#ffffff">５フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">召し使い</TD>
+            <TD bgcolor="#ffffff">１２フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">兵士</TD>
+            <TD bgcolor="#ffffff">ウッドシールド</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">オペラ　ＰＡ</TD>
+            <TD bgcolor="#ffffff">シルバーペンダント</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#cccccc" align="center">サルバ坑道入り口</TD>
+            <TD bgcolor="#ffffff">兵士　※１</TD>
+            <TD bgcolor="#ffffff">サイレンスカード</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<HR>
+<H2 align="center"><A name="クロス">クロス城下町</A></H2>
+<CENTER>
+<TABLE border="0">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#0000ff">
+      <TABLE border="1">
+        <TBODY>
+          <TR>
+            <TD rowspan="12" align="center" bgcolor="#cccccc">入り口</TD>
+            <TD bgcolor="#ffffff">こずるい剣士</TD>
+            <TD bgcolor="#ffffff">パラライズオイル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">女の子</TD>
+            <TD bgcolor="#ffffff">２０フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">旅人</TD>
+            <TD bgcolor="#ffffff">細身の剣</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若者</TD>
+            <TD bgcolor="#ffffff">スペクタクルズ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若者</TD>
+            <TD bgcolor="#ffffff">アイアン</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">男</TD>
+            <TD bgcolor="#ffffff">ペットの餌</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">犬</TD>
+            <TD bgcolor="#ffffff">オリハルコン</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若い女性</TD>
+            <TD bgcolor="#ffffff">変なかたまり</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ボーマン　ＰＡ</TD>
+            <TD bgcolor="#ffffff">ラベンダー</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ディアス　ＰＡ</TD>
+            <TD bgcolor="#ffffff">モータリアルカード</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">オペラ　ＰＡ</TD>
+            <TD bgcolor="#ffffff">ビール</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">エルネスト　ＰＡ</TD>
+            <TD bgcolor="#ffffff">プリズムリング</TD>
+          </TR>
+          <TR>
+            <TD align="center" bgcolor="#cccccc">宿屋</TD>
+            <TD bgcolor="#ffffff">レイチェル</TD>
+            <TD bgcolor="#ffffff">アクアベリィ</TD>
+          </TR>
+          <TR>
+            <TD rowspan="3" align="center" bgcolor="#cccccc">マップ右</TD>
+            <TD bgcolor="#ffffff">オヤジ</TD>
+            <TD bgcolor="#ffffff">キュアポイズン</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">少年</TD>
+            <TD bgcolor="#ffffff">ブルーベリィ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">セリーヌ　ＰＡ</TD>
+            <TD bgcolor="#ffffff">シンデレラグラス</TD>
+          </TR>
+          <TR>
+            <TD rowspan="7" align="center" bgcolor="#cccccc">マップ左</TD>
+            <TD bgcolor="#ffffff">老人</TD>
+            <TD bgcolor="#ffffff">粕漬け</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若者</TD>
+            <TD bgcolor="#ffffff">２００フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">クロード　ＰＡ</TD>
+            <TD bgcolor="#ffffff">ラウンドシールド</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">アシュトン　ＰＡ</TD>
+            <TD bgcolor="#ffffff">ゴールドブレスレット</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">プリシス　ＰＡ</TD>
+            <TD bgcolor="#ffffff">ピコピヨボム</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ベル</TD>
+            <TD bgcolor="#ffffff">ブラックベリィ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">セリーヌ　ＰＡ３</TD>
+            <TD bgcolor="#ffffff">シンデレラグラス</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </TD>
+      <TD>
+      <TABLE border="1" bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD rowspan="4" bgcolor="#cccccc">レストラン</TD>
+            <TD bgcolor="#ffffff">マイヤー</TD>
+            <TD bgcolor="#ffffff">洋梨のコンポート</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ウマイヤー</TD>
+            <TD bgcolor="#ffffff">お刺身</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ママ</TD>
+            <TD bgcolor="#ffffff">ビール</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">？？？（クリス）　ＰＡ３</TD>
+            <TD bgcolor="#ffffff">シルバーファング</TD>
+          </TR>
+          <TR>
+            <TD rowspan="6" bgcolor="#cccccc">バー</TD>
+            <TD bgcolor="#ffffff">戦士</TD>
+            <TD bgcolor="#ffffff">ロングソード</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">男</TD>
+            <TD bgcolor="#ffffff">ブルーベリィ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">バーテン</TD>
+            <TD bgcolor="#ffffff">黒龍“石田屋”</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">男</TD>
+            <TD bgcolor="#ffffff">５０フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">旦那</TD>
+            <TD bgcolor="#ffffff">ピンボケ写真</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">女房</TD>
+            <TD bgcolor="#ffffff">アロエジャム</TD>
+          </TR>
+          <TR>
+            <TD rowspan="3" bgcolor="#cccccc">スキルギルド</TD>
+            <TD bgcolor="#ffffff">アドバイザー</TD>
+            <TD bgcolor="#ffffff">フォルアップカード</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ギルドマスター</TD>
+            <TD bgcolor="#ffffff">羽ペン</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">説明員</TD>
+            <TD bgcolor="#ffffff">スペクタクルズ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#cccccc">武器屋</TD>
+            <TD bgcolor="#ffffff">ゾット</TD>
+            <TD bgcolor="#ffffff">レザーアーマー</TD>
+          </TR>
+          <TR>
+            <TD rowspan="2" bgcolor="#cccccc">城への道</TD>
+            <TD bgcolor="#ffffff">若者</TD>
+            <TD bgcolor="#ffffff">パラライズオイル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">クロード　ＰＡ２</TD>
+            <TD bgcolor="#ffffff">ラウンドシールド</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<H2 align="center">クロス城</H2>
+<CENTER>
+<TABLE border="0">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#0000ff">
+      <TABLE border="1">
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ffffff">兵士</TD>
+            <TD bgcolor="#ffffff">スティングジェル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">兵士</TD>
+            <TD bgcolor="#ffffff">キュアパラライズ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">女中</TD>
+            <TD bgcolor="#ffffff">８０フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">受付</TD>
+            <TD bgcolor="#ffffff">レザーヘルム</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">受付</TD>
+            <TD bgcolor="#ffffff">レザーグリーブ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若者</TD>
+            <TD bgcolor="#ffffff">マジカルカメラ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若い女性</TD>
+            <TD bgcolor="#ffffff">マジカルフィルム</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">兵士</TD>
+            <TD bgcolor="#ffffff">スイートシロップ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">兵士</TD>
+            <TD bgcolor="#ffffff">２００フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">レオン　ＰＡ</TD>
+            <TD bgcolor="#ffffff">ポケットミニ図鑑</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">兵士</TD>
+            <TD bgcolor="#ffffff">２００フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">女中</TD>
+            <TD bgcolor="#ffffff">アンクレット</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </TD>
+      <TD>
+      <TABLE border="1" bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ffffff">コック</TD>
+            <TD bgcolor="#ffffff">果物</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">召し使い</TD>
+            <TD bgcolor="#ffffff">２００フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">兵士</TD>
+            <TD bgcolor="#ffffff">バンデッドヘルム</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">兵士</TD>
+            <TD bgcolor="#ffffff">バンデッドメイル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">女中</TD>
+            <TD bgcolor="#ffffff">５０フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">クロウザー王子　※１</TD>
+            <TD bgcolor="#ffffff">ゴールドクラウン</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ロザリア姫</TD>
+            <TD bgcolor="#ffffff">シルクローブ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">乳母</TD>
+            <TD bgcolor="#ffffff">１００フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">女中</TD>
+            <TD bgcolor="#ffffff">５００フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">女中</TD>
+            <TD bgcolor="#ffffff">変な人形</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <BR>
+      ※１　ＰＡ５で選択肢１を選んだ場合</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<HR>
+<H2 align="center"><A name="港街クリク">港街クリク（崩壊前）</A></H2>
+<P align="center">※１・・・クロス洞穴クリア後</P>
+<CENTER>
+<TABLE border="0">
+  <TBODY>
+    <TR>
+      <TD>
+      <TABLE border="1" bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD rowspan="2" align="center" bgcolor="#cccccc">入り口</TD>
+            <TD align="left" bgcolor="#ffffff">若い男</TD>
+            <TD align="left" bgcolor="#ffffff">８００フォル</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">女性</TD>
+            <TD align="left" bgcolor="#ffffff">きょうの一品</TD>
+          </TR>
+          <TR>
+            <TD rowspan="2" align="center" bgcolor="#cccccc">宿屋</TD>
+            <TD align="left" bgcolor="#ffffff">アクア</TD>
+            <TD align="left" bgcolor="#ffffff">そよ風のピアス</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">お客</TD>
+            <TD align="left" bgcolor="#ffffff">５００フォル</TD>
+          </TR>
+          <TR>
+            <TD align="center" bgcolor="#cccccc">高台の屋敷</TD>
+            <TD align="left" bgcolor="#ffffff">家政婦　※１</TD>
+            <TD align="left" bgcolor="#ffffff">２００フォル</TD>
+          </TR>
+          <TR>
+            <TD rowspan="5" align="center" bgcolor="#cccccc">バー</TD>
+            <TD align="left" bgcolor="#ffffff">男（赤）</TD>
+            <TD align="left" bgcolor="#ffffff">アクアベリィ</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">男（緑）</TD>
+            <TD align="left" bgcolor="#ffffff">アルテミスリーフ</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">ほろ酔いの男</TD>
+            <TD align="left" bgcolor="#ffffff">１００フォル</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">トイレの中の酔っ払い</TD>
+            <TD align="left" bgcolor="#ffffff">ダミードール</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">店主</TD>
+            <TD align="left" bgcolor="#ffffff">グランエシェゾー</TD>
+          </TR>
+          <TR>
+            <TD align="center" bgcolor="#cccccc">こっとう屋</TD>
+            <TD align="left" bgcolor="#ffffff">ミリー</TD>
+            <TD align="left" bgcolor="#ffffff">フラッシュポット</TD>
+          </TR>
+          <TR>
+            <TD align="center" bgcolor="#cccccc">武器屋</TD>
+            <TD align="left" bgcolor="#ffffff">フリント</TD>
+            <TD align="left" bgcolor="#ffffff">がたがたナックル</TD>
+          </TR>
+          <TR>
+            <TD rowspan="11" align="center" bgcolor="#cccccc">広場</TD>
+            <TD align="left" bgcolor="#ffffff">若い女性</TD>
+            <TD align="left" bgcolor="#ffffff">エクステンドカード</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">じいさん</TD>
+            <TD align="left" bgcolor="#ffffff">シルバークロス</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">ばあさん</TD>
+            <TD align="left" bgcolor="#ffffff">ルビー</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">彼氏</TD>
+            <TD align="left" bgcolor="#ffffff">シルバーチャーム</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">彼女</TD>
+            <TD align="left" bgcolor="#ffffff">バトルレイヤーリング</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">フィリア　ＰＡ１</TD>
+            <TD align="left" bgcolor="#ffffff">ミスチーフ</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">クロード　ＰＡ１</TD>
+            <TD align="left" bgcolor="#ffffff">ブロードソード</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">レナ　ＰＡ１</TD>
+            <TD align="left" bgcolor="#ffffff">フルーツシロップ</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">セリーヌ　ＰＡ１</TD>
+            <TD align="left" bgcolor="#ffffff">ルビーワンド</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">売り子</TD>
+            <TD align="left" bgcolor="#ffffff">オレンジシャーベット</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">兄ちゃん</TD>
+            <TD align="left" bgcolor="#ffffff">ホットケーキ</TD>
+          </TR>
+          <TR>
+            <TD rowspan="2" align="center" bgcolor="#cccccc">港</TD>
+            <TD align="left" bgcolor="#ffffff">船乗り（上）</TD>
+            <TD align="left" bgcolor="#ffffff">船中八策</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">船乗り（中）</TD>
+            <TD align="left" bgcolor="#ffffff">ディスカバリーカード</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </TD>
+      <TD>
+      <TABLE border="1" bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD rowspan="8" align="center" bgcolor="#cccccc">港</TD>
+            <TD align="left" bgcolor="#ffffff">船乗り（下）</TD>
+            <TD align="left" bgcolor="#ffffff">フィートシンボル</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">紋章術師</TD>
+            <TD align="left" bgcolor="#ffffff">ハーバルオイル</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">船長</TD>
+            <TD align="left" bgcolor="#ffffff">黒龍“石田屋”</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">女の子　※１</TD>
+            <TD align="left" bgcolor="#ffffff">りんごのクレープ</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">男の子　※１</TD>
+            <TD align="left" bgcolor="#ffffff">５０フォル</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">船乗り（子供の前）　※１</TD>
+            <TD align="left" bgcolor="#ffffff">バーサークリング</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">ケティル（イベント後）　※１</TD>
+            <TD align="left" bgcolor="#ffffff">盗賊てぶくろ</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">セリーヌ　ＰＡ</TD>
+            <TD align="left" bgcolor="#ffffff">シンデレラグラス</TD>
+          </TR>
+          <TR>
+            <TD rowspan="5" align="center" bgcolor="#cccccc">高台</TD>
+            <TD align="left" bgcolor="#ffffff">老人</TD>
+            <TD align="left" bgcolor="#ffffff">万年筆</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">若い男</TD>
+            <TD align="left" bgcolor="#ffffff">アイアン</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">女性</TD>
+            <TD align="left" bgcolor="#ffffff">アンクレット</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">レナ　ＰＡ</TD>
+            <TD align="left" bgcolor="#ffffff">神秘の生き物</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">クロード　ＰＡ</TD>
+            <TD align="left" bgcolor="#ffffff">錬気の書</TD>
+          </TR>
+          <TR>
+            <TD rowspan="3" align="center" bgcolor="#cccccc">スキルギルド</TD>
+            <TD align="left" bgcolor="#ffffff">アドバイザー</TD>
+            <TD align="left" bgcolor="#ffffff">サファイア</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">ギルドマスター</TD>
+            <TD align="left" bgcolor="#ffffff">マンドレイク</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">説明員</TD>
+            <TD align="left" bgcolor="#ffffff">マジカルクレイ</TD>
+          </TR>
+          <TR>
+            <TD rowspan="3" align="center" bgcolor="#cccccc">洋服屋</TD>
+            <TD align="left" bgcolor="#ffffff">客（青）</TD>
+            <TD align="left" bgcolor="#ffffff">ローブ</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">客（着替え中）</TD>
+            <TD align="left" bgcolor="#ffffff">奇妙な服</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">ゴルゴ</TD>
+            <TD align="left" bgcolor="#ffffff">奇妙な服</TD>
+          </TR>
+          <TR>
+            <TD rowspan="2" align="center" bgcolor="#cccccc">パン屋</TD>
+            <TD align="left" bgcolor="#ffffff">主人</TD>
+            <TD align="left" bgcolor="#ffffff">卵サンド</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">女の子</TD>
+            <TD align="left" bgcolor="#ffffff">５００フォル</TD>
+          </TR>
+          <TR>
+            <TD rowspan="2" align="center" bgcolor="#cccccc">レストラン</TD>
+            <TD align="left" bgcolor="#ffffff">マスター</TD>
+            <TD align="left" bgcolor="#ffffff">ビール</TD>
+          </TR>
+          <TR>
+            <TD align="left" bgcolor="#ffffff">コック</TD>
+            <TD align="left" bgcolor="#ffffff">野菜</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<H2 align="center">港街クリク（崩壊後）</H2>
+<CENTER>
+<TABLE border="1" bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD align="left" bgcolor="#ffffff">兄ちゃん</TD>
+      <TD align="left" bgcolor="#ffffff">バナナのクレープ</TD>
+    </TR>
+    <TR>
+      <TD align="left" bgcolor="#ffffff">船乗り</TD>
+      <TD align="left" bgcolor="#ffffff">船中八策</TD>
+    </TR>
+    <TR>
+      <TD align="left" bgcolor="#ffffff">船長</TD>
+      <TD align="left" bgcolor="#ffffff">黒龍“石田屋”</TD>
+    </TR>
+    <TR>
+      <TD align="left" bgcolor="#ffffff">紋章術師</TD>
+      <TD align="left" bgcolor="#ffffff">ハーバルオイル</TD>
+    </TR>
+    <TR>
+      <TD align="left" bgcolor="#ffffff">ばあさん</TD>
+      <TD align="left" bgcolor="#ffffff">せいめいほけん</TD>
+    </TR>
+    <TR>
+      <TD align="left" bgcolor="#ffffff">ケティル</TD>
+      <TD align="left" bgcolor="#ffffff">盗賊てぶくろ</TD>
+    </TR>
+    <TR>
+      <TD align="left" bgcolor="#ffffff">家政婦</TD>
+      <TD align="left" bgcolor="#ffffff">１５００フォル</TD>
+    </TR>
+    <TR>
+      <TD align="left" bgcolor="#ffffff">男の子</TD>
+      <TD align="left" bgcolor="#ffffff">シルバー</TD>
+    </TR>
+    <TR>
+      <TD align="left" bgcolor="#ffffff">青年</TD>
+      <TD align="left" bgcolor="#ffffff">どーじん？</TD>
+    </TR>
+    <TR>
+      <TD align="left" bgcolor="#ffffff">女の子</TD>
+      <TD align="left" bgcolor="#ffffff">どーじん♪</TD>
+    </TR>
+    <TR>
+      <TD align="left" bgcolor="#ffffff">マスター</TD>
+      <TD align="left" bgcolor="#ffffff">グランエシェゾー</TD>
+    </TR>
+    <TR>
+      <TD align="left" bgcolor="#ffffff">ミリー</TD>
+      <TD align="left" bgcolor="#ffffff">フラッシュポット</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<HR>
+<H2 align="center"><A name="マーズ村">マーズ村</A></H2>
+<CENTER>
+<TABLE>
+  <TBODY>
+    <TR>
+      <TD>
+      <TABLE border="1" bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD rowspan="10" align="center" bgcolor="#cccccc">マップ左</TD>
+            <TD bgcolor="#ffffff">若い男（入り口）</TD>
+            <TD bgcolor="#ffffff">ローブ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若い女性</TD>
+            <TD bgcolor="#ffffff">マジカルハット</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">コリン</TD>
+            <TD bgcolor="#ffffff">１２０フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">セシル</TD>
+            <TD bgcolor="#ffffff">悲しみの指輪</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">老人</TD>
+            <TD bgcolor="#ffffff">ブーツ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若い男（森手前）</TD>
+            <TD bgcolor="#ffffff">ルビーワンド</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">女性　※１</TD>
+            <TD bgcolor="#ffffff">スペクタクルズ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">クロード　ＰＡ１、ＰＡ</TD>
+            <TD bgcolor="#ffffff">肖像画Ｂ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">レナ　ＰＡ</TD>
+            <TD bgcolor="#ffffff">肖像画Ａ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">レオン　ＰＡ</TD>
+            <TD bgcolor="#ffffff">野草のすべて</TD>
+          </TR>
+          <TR>
+            <TD rowspan="4" align="center" bgcolor="#cccccc">長老の家</TD>
+            <TD bgcolor="#ffffff">長老</TD>
+            <TD bgcolor="#ffffff">フェアリィグラス</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">アシュトン　ＰＡ</TD>
+            <TD bgcolor="#ffffff">ゴールドピアス</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">オペラ　ＰＡ</TD>
+            <TD bgcolor="#ffffff">美丈夫“うすにごり”</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">エルネスト　ＰＡ</TD>
+            <TD bgcolor="#ffffff">バトルスーツ</TD>
+          </TR>
+          <TR>
+            <TD rowspan="2" align="center" bgcolor="#cccccc">道具屋</TD>
+            <TD bgcolor="#ffffff">買い物客</TD>
+            <TD bgcolor="#ffffff">２００フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">旅人ラドル</TD>
+            <TD bgcolor="#ffffff">ダミードール</TD>
+          </TR>
+          <TR>
+            <TD rowspan="4" align="center" bgcolor="#cccccc">マップ右</TD>
+            <TD bgcolor="#ffffff">バッツ</TD>
+            <TD bgcolor="#ffffff">マジックロック</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若い女性</TD>
+            <TD bgcolor="#ffffff">天使の像</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">おばあさん</TD>
+            <TD bgcolor="#ffffff">サイレンスカード</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">老人</TD>
+            <TD bgcolor="#ffffff">玉手箱</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </TD>
+      <TD>
+      <TABLE border="1" bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD rowspan="5" align="center" bgcolor="#cccccc">マップ右</TD>
+            <TD bgcolor="#ffffff">男性　※２</TD>
+            <TD bgcolor="#ffffff">ダミードール</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ミリー　※１</TD>
+            <TD bgcolor="#ffffff">元牛乳</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">プリシス　ＰＡ</TD>
+            <TD bgcolor="#ffffff">マテリアルキット</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ボーマン　ＰＡ</TD>
+            <TD bgcolor="#ffffff">メープルシロップ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ディアス　ＰＡ</TD>
+            <TD bgcolor="#ffffff">ビターローション</TD>
+          </TR>
+          <TR>
+            <TD align="center" bgcolor="#cccccc">食料店</TD>
+            <TD bgcolor="#ffffff">おばあさん</TD>
+            <TD bgcolor="#ffffff">穀物</TD>
+          </TR>
+          <TR>
+            <TD rowspan="4" align="center" bgcolor="#cccccc">セリーヌの家</TD>
+            <TD bgcolor="#ffffff">エグラス</TD>
+            <TD bgcolor="#ffffff">ハーバルオイル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ラベ</TD>
+            <TD bgcolor="#ffffff">シルクローブ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">子供　※２</TD>
+            <TD bgcolor="#ffffff">ブルーベリィ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">セリーヌ　ＰＡ</TD>
+            <TD bgcolor="#ffffff">シンデレラグラス</TD>
+          </TR>
+          <TR>
+            <TD rowspan="3" align="center" bgcolor="#cccccc">宿屋</TD>
+            <TD bgcolor="#ffffff">フィン</TD>
+            <TD bgcolor="#ffffff">ローズヒップ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">店主</TD>
+            <TD bgcolor="#ffffff">ワイン</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">男</TD>
+            <TD bgcolor="#ffffff">ビール</TD>
+          </TR>
+          <TR>
+            <TD rowspan="3" align="center" bgcolor="#cccccc">紋章の森<BR>
+            <BR>
+            ※レナ編のみ</TD>
+            <TD bgcolor="#ffffff">セシル</TD>
+            <TD bgcolor="#ffffff">パープルミスト</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">コリン</TD>
+            <TD bgcolor="#ffffff">らくがき</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">バッツ</TD>
+            <TD bgcolor="#ffffff">５０フォル</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <BR>
+      ※１　クリク崩壊後<BR>
+      ※２　ＰＡでは登場しない<BR>
+      ※３　誘拐事件が解決した後</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<HR>
+<H2 align="center"><A name="ハーリーの街">ハーリーの街</A></H2>
+<CENTER>
+<TABLE border="0">
+  <TBODY>
+    <TR>
+      <TD>
+      <TABLE border="1" bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD rowspan="9" align="center" bgcolor="#cccccc">港</TD>
+            <TD bgcolor="#ffffff">親父さん</TD>
+            <TD bgcolor="#ffffff">美丈夫“うすにごり”</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">女性</TD>
+            <TD bgcolor="#ffffff">２００フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">船乗り（左）</TD>
+            <TD bgcolor="#ffffff">黒龍“石田屋”</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">船乗り（船の前）</TD>
+            <TD bgcolor="#ffffff">船中八策</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">旅人　※１</TD>
+            <TD bgcolor="#ffffff">１２０フォル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">クロード　ＰＡ</TD>
+            <TD bgcolor="#ffffff">エクステンドカード</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">レナ　ＰＡ</TD>
+            <TD bgcolor="#ffffff">フェアリーズカード</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">アシュトン　ＰＡ</TD>
+            <TD bgcolor="#ffffff">シルバーペンダント</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">オペラ　ＰＡ</TD>
+            <TD bgcolor="#ffffff">ドゥルフォールビバン</TD>
+          </TR>
+          <TR>
+            <TD rowspan="7" align="center" bgcolor="#cccccc">街</TD>
+            <TD bgcolor="#ffffff">女性</TD>
+            <TD bgcolor="#ffffff">ローズヒップ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">少年</TD>
+            <TD bgcolor="#ffffff">肉まん</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">男</TD>
+            <TD bgcolor="#ffffff">サイレンスカード</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">プリシス　ＰＡ</TD>
+            <TD bgcolor="#ffffff">フレアボム</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">レオン　ＰＡ</TD>
+            <TD bgcolor="#ffffff">神秘の生き物</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ディアス　ＰＡ</TD>
+            <TD bgcolor="#ffffff">パラライチェック</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">エルネスト　ＰＡ</TD>
+            <TD bgcolor="#ffffff">リバースドール</TD>
+          </TR>
+          <TR>
+            <TD rowspan="6" align="center" bgcolor="#cccccc">宿屋</TD>
+            <TD bgcolor="#ffffff">カレン</TD>
+            <TD bgcolor="#ffffff">万年筆</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">新婚さん（男）</TD>
+            <TD bgcolor="#ffffff">せいめいほけん</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">新婚さん（女）</TD>
+            <TD bgcolor="#ffffff">幸せの指輪</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">若い男　※２</TD>
+            <TD bgcolor="#ffffff">パープルミスト</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">マスター　※２</TD>
+            <TD bgcolor="#ffffff">ルビーピアス</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">老人　※２</TD>
+            <TD bgcolor="#ffffff">梅干</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </TD>
+      <TD>
+      <TABLE border="1" bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD rowspan="2" align="center" bgcolor="#cccccc">珍味館</TD>
+            <TD bgcolor="#ffffff">珍念</TD>
+            <TD bgcolor="#ffffff">ココナッツミルク</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">セリーヌ　ＰＡ</TD>
+            <TD bgcolor="#ffffff">ブルーベリィ</TD>
+          </TR>
+          <TR>
+            <TD align="center" bgcolor="#cccccc">武器屋</TD>
+            <TD bgcolor="#ffffff">プレミア</TD>
+            <TD bgcolor="#ffffff">ラウンドシールド</TD>
+          </TR>
+          <TR>
+            <TD align="center" bgcolor="#cccccc">古物商</TD>
+            <TD bgcolor="#ffffff">スッポンの主</TD>
+            <TD bgcolor="#ffffff">シルクローブ</TD>
+          </TR>
+          <TR>
+            <TD rowspan="6" align="center" bgcolor="#cccccc">酒場</TD>
+            <TD bgcolor="#ffffff">酔ったオヤジ</TD>
+            <TD bgcolor="#ffffff">悲しみの指輪</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">船乗り（左）</TD>
+            <TD bgcolor="#ffffff">三倍増醸酒</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">船乗り（右）</TD>
+            <TD bgcolor="#ffffff">とろ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ザンドの手下（左）</TD>
+            <TD bgcolor="#ffffff">にせさつ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ザンドの手下（右）</TD>
+            <TD bgcolor="#ffffff">ぎぞう小切手</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">店主</TD>
+            <TD bgcolor="#ffffff">元牛乳</TD>
+          </TR>
+          <TR>
+            <TD rowspan="3" align="center" bgcolor="#cccccc">スキルギルド</TD>
+            <TD bgcolor="#ffffff">アドバイザー</TD>
+            <TD bgcolor="#ffffff">スエードブーツ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ギルドマスター</TD>
+            <TD bgcolor="#ffffff">バックラー</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">説明員</TD>
+            <TD bgcolor="#ffffff">盗賊てぶくろ</TD>
+          </TR>
+          <TR>
+            <TD rowspan="3" align="center" bgcolor="#cccccc">ザンドの屋敷</TD>
+            <TD bgcolor="#ffffff">ザンドの手下</TD>
+            <TD bgcolor="#ffffff">皮の鞭</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">コック</TD>
+            <TD bgcolor="#ffffff">海老グラタン</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#ffffff">ザンドの手下</TD>
+            <TD bgcolor="#ffffff">ツインソード</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <BR>
+      ※１　マーズの誘拐事件が解決した後<BR>
+      ※２　クリクが崩壊した後</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

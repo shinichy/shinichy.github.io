@@ -1,0 +1,281 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 7.0.0.0 for Windows">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE>ＦＦⅦ－てきのわざリスト</TITLE>
+</HEAD>
+<BODY text="#000000" bgcolor="#ffcc99" link="#006600" vlink="#33cc33" alink="#cc33cc">
+<H1 align="center">てきのわざリスト</H1>
+<HR>
+<CENTER>
+<TABLE bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD align="center" bgcolor="#00ff00">わざ名</TD>
+      <TD align="center" bgcolor="#00ff00">ＭＰ</TD>
+      <TD align="center" bgcolor="#00ff00">属性</TD>
+      <TD align="center" bgcolor="#00ff00">対象</TD>
+      <TD align="center" bgcolor="#00ff00">攻撃力</TD>
+      <TD align="center" bgcolor="#00ff00">リフレク</TD>
+      <TD width="356" align="center" bgcolor="#00ff00">効果</TD>
+      <TD width="193" align="center" bgcolor="#00ff00">持っている敵</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>カエルのうた</B></TD>
+      <TD align="center" bgcolor="#ffffff">５</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">単</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">○</TD>
+      <TD width="356" bgcolor="#ffffff">スリプルとトードを同時にかける</TD>
+      <TD width="193" bgcolor="#ffffff">タッチミー（ゴンガガエリアの森）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>レベル４自爆</B></TD>
+      <TD align="center" bgcolor="#ffffff">１０</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">全</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">○</TD>
+      <TD width="356" bgcolor="#ffffff">レベルが４の倍数の敵を瀕死＆ミニマムにする</TD>
+      <TD width="193" bgcolor="#ffffff">ムー（グラスランドエリア）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>マジックハンマー</B></TD>
+      <TD align="center" bgcolor="#ffffff">３</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">単</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">○</TD>
+      <TD width="356" bgcolor="#ffffff">ＭＰを１００吸収する<BR>
+      （自分のＭＰが全快の時は吸収できない）</TD>
+      <TD width="193" bgcolor="#ffffff">足斬草（ウータイ：ダチャオ像）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>ホワイトウィンド</B></TD>
+      <TD align="center" bgcolor="#ffffff">３４</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">全</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">×</TD>
+      <TD width="356" bgcolor="#ffffff">使用者の現在のＨＰの分だけＨＰを回復する<BR>
+      同時に眠、毒、混乱、沈黙、スロウ、ストップ、蛙、ミニマム、石、操、バーサク、マヒ、暗闇のステータス異常を治す</TD>
+      <TD width="193" bgcolor="#ffffff">ゼムゼレット（ジュノンエリア）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>マイティガード</B></TD>
+      <TD align="center" bgcolor="#ffffff">５６</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">全</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">×</TD>
+      <TD width="356" bgcolor="#ffffff">バリア、マバリア、ヘイスト状態にする</TD>
+      <TD width="193" bgcolor="#ffffff">ビーチプラグ（コレルエリア海岸）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>天使のささやき</B></TD>
+      <TD align="center" bgcolor="#ffffff">５０</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">単</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">×</TD>
+      <TD nowrap width="356" bgcolor="#ffffff">ＨＰを完全回復する<BR>
+      同時に戦闘不能、眠、毒、混乱、沈黙、スロウ、ストップ、蛙、ミニマム、石、バーサク、マヒ、暗闇のステータス異常を治す</TD>
+      <TD width="193" bgcolor="#ffffff">ポーランサリタ（大空洞内部）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>ドラゴンフォース</B></TD>
+      <TD align="center" bgcolor="#ffffff">１９</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">単</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">×</TD>
+      <TD width="356" bgcolor="#ffffff">防御力と魔法防御力を１．５倍にする</TD>
+      <TD width="193" bgcolor="#ffffff">ダークドラゴン（大空洞内部）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>デスフォース</B></TD>
+      <TD align="center" bgcolor="#ffffff">３</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">単</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">×</TD>
+      <TD width="356" bgcolor="#ffffff">即死＆死の宣告を防ぐ</TD>
+      <TD width="193" bgcolor="#ffffff">アダマンタイマイ（ウータイエリア海岸）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>火炎放射</B></TD>
+      <TD align="center" bgcolor="#ffffff">１０</TD>
+      <TD align="center" bgcolor="#ffffff">炎</TD>
+      <TD align="center" bgcolor="#ffffff">単</TD>
+      <TD align="center" bgcolor="#ffffff">１４</TD>
+      <TD align="center" bgcolor="#ffffff">○</TD>
+      <TD width="356" bgcolor="#ffffff">炎で攻撃する</TD>
+      <TD width="193" bgcolor="#ffffff">アークドラゴン（ミスリルマイン）<BR>
+      ドラゴン（ニブル山洞窟）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>レーザー</B></TD>
+      <TD align="center" bgcolor="#ffffff">１６</TD>
+      <TD align="center" bgcolor="#ffffff">重力</TD>
+      <TD align="center" bgcolor="#ffffff">単</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">○</TD>
+      <TD width="356" bgcolor="#ffffff">相手のＨＰの１/２のダメージを与える</TD>
+      <TD width="193" bgcolor="#ffffff">デスクロー（コレルプリズン）<BR>
+      ダークドラゴン（大空洞内部）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>マトラマジック</B></TD>
+      <TD align="center" bgcolor="#ffffff">８</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">全</TD>
+      <TD align="center" bgcolor="#ffffff">１１</TD>
+      <TD align="center" bgcolor="#ffffff">○</TD>
+      <TD width="356" bgcolor="#ffffff">ミサイルで攻撃する</TD>
+      <TD width="193" bgcolor="#ffffff">スイーパーカスタム（ミッドガルエリア）<BR>
+      ブルモーター（コレルプリズン）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>臭い息</B></TD>
+      <TD align="center" bgcolor="#ffffff">５８</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">全</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">×</TD>
+      <TD width="356" bgcolor="#ffffff">毒、混乱、眠、ミニマム、蛙、沈黙にする</TD>
+      <TD width="193" bgcolor="#ffffff">モルボル（絶壁内部）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>ベータ</B></TD>
+      <TD align="center" bgcolor="#ffffff">３５</TD>
+      <TD align="center" bgcolor="#ffffff">炎</TD>
+      <TD align="center" bgcolor="#ffffff">全</TD>
+      <TD align="center" bgcolor="#ffffff">５４</TD>
+      <TD align="center" bgcolor="#ffffff">×</TD>
+      <TD width="356" bgcolor="#ffffff">炎で攻撃する</TD>
+      <TD width="193" bgcolor="#ffffff">ミドガルズオルム（グラスランドエリア湿地帯）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>アクアブレス</B></TD>
+      <TD align="center" bgcolor="#ffffff">３４</TD>
+      <TD align="center" bgcolor="#ffffff">水</TD>
+      <TD align="center" bgcolor="#ffffff">全</TD>
+      <TD align="center" bgcolor="#ffffff">５２</TD>
+      <TD align="center" bgcolor="#ffffff">○</TD>
+      <TD width="356" bgcolor="#ffffff">水泡で攻撃する</TD>
+      <TD width="193" bgcolor="#ffffff">キマイラ（ゴールドソーサーエリア砂漠）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>トライン</B></TD>
+      <TD align="center" bgcolor="#ffffff">２０</TD>
+      <TD align="center" bgcolor="#ffffff">雷</TD>
+      <TD align="center" bgcolor="#ffffff">全</TD>
+      <TD align="center" bgcolor="#ffffff">３４</TD>
+      <TD align="center" bgcolor="#ffffff">×</TD>
+      <TD width="356" bgcolor="#ffffff">雷で攻撃する</TD>
+      <TD width="193" bgcolor="#ffffff">マテリアキーパー（ニブル山ボス）<BR>
+      スティルヴ（絶壁内部）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>マジカルブレス</B></TD>
+      <TD align="center" bgcolor="#ffffff">７５</TD>
+      <TD align="center" bgcolor="#ffffff">炎・冷気・雷</TD>
+      <TD align="center" bgcolor="#ffffff">全</TD>
+      <TD align="center" bgcolor="#ffffff">７７</TD>
+      <TD align="center" bgcolor="#ffffff">×</TD>
+      <TD width="356" bgcolor="#ffffff">３つの属性で攻撃する</TD>
+      <TD width="193" bgcolor="#ffffff">スティルヴ（絶壁内部）<BR>
+      パラサイト（大空洞内部）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>？？？？</B></TD>
+      <TD align="center" bgcolor="#ffffff">３</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">単</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">×</TD>
+      <TD width="356" bgcolor="#ffffff">使用者の最大ＨＰと現ＨＰの差だけダメージを与える</TD>
+      <TD width="193" bgcolor="#ffffff">ジャッジ（神羅屋敷）<BR>
+      ベヒーモス（ミッドガル八番街地下通路）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>ゴブリンパンチ</B></TD>
+      <TD align="center" bgcolor="#ffffff">０</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">単</TD>
+      <TD align="center" bgcolor="#ffffff">１２</TD>
+      <TD align="center" bgcolor="#ffffff">×</TD>
+      <TD width="356" bgcolor="#ffffff">使用者と相手のレベルが同じだった場合ダメージ８倍</TD>
+      <TD width="193" bgcolor="#ffffff">ゴブリン（ゴブリンアイランド）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>チョコボックル</B></TD>
+      <TD align="center" bgcolor="#ffffff">３</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">単</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">×</TD>
+      <TD width="356" bgcolor="#ffffff">戦闘から逃げた回数のダメージを与える</TD>
+      <TD width="193" bgcolor="#ffffff">チョコボ</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>レベル５デス</B></TD>
+      <TD align="center" bgcolor="#ffffff">２２</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">全</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">×</TD>
+      <TD width="356" bgcolor="#ffffff">レベルが５の倍数の敵を即死させる</TD>
+      <TD width="193" bgcolor="#ffffff">パラサイト（大空洞内部）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>死の宣告</B></TD>
+      <TD align="center" bgcolor="#ffffff">１０</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">単</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">×</TD>
+      <TD width="356" bgcolor="#ffffff">相手を死の宣告状態にする</TD>
+      <TD width="193" bgcolor="#ffffff">ギ族の亡霊（ギ族の洞窟）<BR>
+      ステルシーステップ（ギ族の洞窟）<BR>
+      バウンドファット（サンゴの谷）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>死のルーレット</B></TD>
+      <TD align="center" bgcolor="#ffffff">６</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">全</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">×</TD>
+      <TD width="356" bgcolor="#ffffff">敵味方全体でルーレットが止まった者を即死させる</TD>
+      <TD width="193" bgcolor="#ffffff">デスディーラー（大空洞内部）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>シャドウフレア</B></TD>
+      <TD align="center" bgcolor="#ffffff">１００</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">単</TD>
+      <TD align="center" bgcolor="#ffffff">１２５</TD>
+      <TD align="center" bgcolor="#ffffff">○</TD>
+      <TD width="356" bgcolor="#ffffff">無属性の攻撃</TD>
+      <TD width="193" bgcolor="#ffffff">アルテマウェポン<BR>
+      ドラゴンゾンビ（大空洞内部）</TD>
+    </TR>
+    <TR>
+      <TD align="center" bgcolor="#cccccc"><B>なんとか？？？？</B></TD>
+      <TD align="center" bgcolor="#ffffff">１１０</TD>
+      <TD align="center" bgcolor="#ffffff"></TD>
+      <TD align="center" bgcolor="#ffffff">全</TD>
+      <TD align="center" bgcolor="#ffffff">６０</TD>
+      <TD align="center" bgcolor="#ffffff">○</TD>
+      <TD width="356" bgcolor="#ffffff">防御力無視のダメージを与える</TD>
+      <TD width="193" bgcolor="#ffffff">ドラゴンゾンビ（大空洞内部）</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

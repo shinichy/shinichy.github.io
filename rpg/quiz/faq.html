@@ -1,0 +1,296 @@
+<HTML><HEAD><TITLE>QQQSystems- FAQ -</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=x-sjis">
+</HEAD>
+<BODY bgColor=white>
+<CENTER><BR><BR>
+<HR>
+<BR><B><SPAN>■ヘルプ■</SPAN></B>
+<TABLE cellSpacing=1 cellPadding=2 width="80%" bgColor=#dfdfff border=3>
+  <TBODY>
+  <TR>
+    <TD bgColor=#aaaaee colSpan=2><SPAN>
+      <CENTER>■■■■■ファイル構成■■■■■</CENTER></SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>index.cgi</SMALL></TD>
+    <TD><SPAN>【添付】ジャンルメニューを表示させるCGIスクリプト</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>quiz.cgi</SMALL></TD>
+    <TD><SPAN>【添付】クイズの出題、高成績者一覧、成績分布、出題状況、投稿問題受付を表示するCGIスクリプト</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>quiz_op.cgi</SMALL></TD>
+    <TD><SPAN>【添付】管理人室を表示するCGIスクリプト</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>function.cgi</SMALL></TD>
+    <TD><SPAN>【添付】CGIスクリプトの共通ライブラリ</SPAN></TD></TR>
+  <TR>
+    <TD><SMALL>jcode.pl</SMALL></TD>
+    <TD><SPAN>【添付】日本語文字コード変換スクリプト</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>a.gif</SMALL></TD>
+    <TD><SPAN>【添付】成績分布グラフ表示画像のサンプル。クイズ終了時の成績が該当するグラフの画像</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>b.gif</SMALL></TD>
+    <TD><SPAN>【添付】成績分布グラフ表示画像のサンプル。</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>win.mid</SMALL></TD>
+    <TD><SPAN>【添付】クイズ正解時に再生するMIDIファイルのサンプル</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>lose.mid</SMALL></TD>
+    <TD><SPAN>【添付】クイズ不正解時に再生するMIDIファイルのさんプル</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>end.mid</SMALL></TD>
+    <TD><SPAN>【添付】クイズ終了時に再生するMIDIファイルのサンプル</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>high.mid</SMALL></TD>
+    <TD><SPAN>【添付】高成績時に再生するMIDIファイルのサンプル</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>sysdesign.cgi</SMALL></TD>
+    <TD><SPAN>【添付】【自動作成】システムデザイン設定を保存するデータファイル</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>design.cgi</SMALL></TD>
+    <TD><SPAN>【添付】【自動作成】デザイン設定を保存するデータファイル</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>genre.cgi</SMALL></TD>
+    <TD><SPAN>【自動作成】ジャンル設定を記録するデータファイル</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>system.cgi</SMALL></TD>
+    <TD><SPAN>【自動作成】システム設定を記録するデータファイル</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>pass.cgi</SMALL></TD>
+    <TD><SPAN>【自動作成】管理者パスワードを記録するデータファイル。管理者パスワードを変更したい場合はこのファイルを削除する</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>count_file.cgi</SMALL></TD>
+    <TD><SPAN>【自動作成】プレイログの採番を行うデータファイル</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>guard.cgi</SMALL></TD>
+    <TD><SPAN>【自動作成】アクセス制限をかけるIPのリストを記録するデータファイル</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>dataディレクトリ</SMALL></TD>
+    <TD><SPAN>【自動作成】プレイログファイルを格納するディレクトリ</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>[ジャンル名]ディレクトリ</SMALL></TD>
+    <TD><SPAN>【自動作成】ジャンルごとの問題ファイルや成績履歴、高成績者を保存するディレクトリ。ジャンル作成時に自動作成される</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>data/log[数字].cgi</SMALL></TD>
+    <TD><SPAN>【自動作成】クイズ挑戦時に使用するプレイログファイル。このファイルの数だけ同時プレイが可能。クイズ開始時に、空いているプレイログがあれば確保しクイズを開始する。なければビジー表示する</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>[ジャンル名]/mondai_[ジャンル名].cgi</SMALL></TD>
+    <TD><SPAN>【自動作成】問題ファイル</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>[ジャンル名]/high[数字]_[ジャンル名].cgi</SMALL></TD>
+    <TD><SPAN>【自動作成】高成績者ログファイル。[数字]はモード番号</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>[ジャンル名]/high[数字]_[ジャンル名]_bak.cgi</SMALL></TD>
+    <TD><SPAN>【自動作成】高成績者ログファイルの上書きバックアップログ</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>[ジャンル名]/high[数字1]_[ジャンル名]_bak[数字2].cgi</SMALL></TD>
+    <TD><SPAN>【自動作成】高成績者ログファイルのバックアップログ。[数字2]はバックアップログ番号</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>[ジャンル名]/hst[数字]_[ジャンル名].cgi</SMALL></TD>
+    <TD><SPAN>【自動作成】成績分布ログファイル。[数字]はモード番号</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>[ジャンル名]/hst[数字]_[ジャンル名]_bak.cgi</SMALL></TD>
+    <TD><SPAN>【自動作成】成績分布ログファイルの上書きバックアップログ</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>[ジャンル名]/hst[数字1]_[ジャンル名]_bak[数字2].cgi</SMALL></TD>
+    <TD><SPAN>【自動作成】成績分布ログファイルのバックアップログ。[数字2]はバックアップログ番号</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>[ジャンル名]/qu[数字].cgi</SMALL></TD>
+    <TD><SPAN>【自動作成】設問ごとの成績履歴ファイル。[数字]は問題番号</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>[ジャンル名]/mes_[ジャンル名].cgi</SMALL></TD>
+    <TD><SPAN>【自動作成】終了メッセージに表示するメッセージを設定するファイル</SPAN></TD></TR>
+
+
+  <TR>
+    <TD bgColor=#aaaaee colSpan=2><SPAN>
+      <CENTER>■■■■■インストール■■■■■</CENTER></SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>新規に2.XXをインストールするには？</SMALL></TD>
+    <TD><SPAN>【動作環境】<br>
+				●本スクリプトはCGIスクリプトです。CGI(perl)が動作可能なサーバー上でのみ動作可能です。<br><br>
+				【インストール手順】<table border=0 cellpadding=0 cellspacing=0>
+				<tr><td valign=top>(１)．</td><td>ダウンロードしたCGIスクリプトを解凍します<br><br></td></tr>
+				<tr><td valign=top>(２)．</td><td>設置するサーバーでの、perlコマンドの実行パスを調べる。通常は/usr/bin/perl あるいは /usr/local/bin/perlとなります。<br><br></td></tr>
+				<tr><td valign=top>(３)．</td><td>(１)で解凍した下記スクリプト(index.cgi,quiz.cgi,quiz_op.cgi)の１行目が、(２)で調べたperlスクリプトパスとあっているかを調べる。あっていなければ修正する。<br><br></td></tr>
+				<tr><td valign=top>(４)．</td><td>設置するサーバーでの、CGIスクリプトのパーミッションと、データファイルのパーミッションと、作成したディレクトリのパーミッションを調べ、function.cgiの冒頭部で、設定しているパーミッションの値を修正する。通常は以下の通り。サーバーの使用マニュアルに記載がなければ以下のパーミッションを試してください。<br>
+				CGIスクリプト(755)or(744)<br>
+				データファイル(666)or(644)or(606)or(604)<br>
+				ディレクトリ(777)or(707)<br><br></td></tr>
+				<tr><td valign=top>(５)．</td><td>お使いのFTPソフトを使い、スクリプトファイルを設置するためのディレクトリを作成する。<br><br></td></tr>
+				<tr><td valign=top>(６)．</td><td>(５)で作成したディレクトリのパーミッションを(４)で調べたディレクトリのパーミッションにセットする。(chmodコマンド)<br><br></td></tr>
+				<tr><td valign=top>(７)．</td><td>(５)で作成したディレクトリに、お使いのFTPソフトで、(１)で解凍したファイルをアップロードする。<br><br></td></tr>
+				<tr><td valign=top>(８)．</td><td>(７)でアップロードしたCGIスクリプトとデータファイルのパーミッションを、(４)で調べたパーミッションにセットする(chmodコマンド)<br><br></td></tr>
+				<tr><td valign=top>(９)．</td><td>奨励設定は以下の通り<br>
+				qqqsystems(777)　qqqsystems設置用ディレクトリ<br>
+				　├ index.cgi(755)<br>
+				　├ quiz.cgi(755)<br>
+				　├ quiz_op.cgi(755)<br>
+				　├ function.cgi(755)<br>
+				　├ jcode.pl(755)<br>
+				　├ sysdesign.cgi(666)<br>
+				　├ design.cgi(666)<br>
+				　├ a.gif<br>
+				　├ b.gif<br>
+				　├ win.mid<br>
+				　├ lose.mid<br>
+				　├ high.mid<br>
+				　├ end.mid<br><br></td></tr>
+				<tr><td valign=top>(10)．</td><td>ブラウザから、quiz_op.cgiにアクセスする。<br><br></td></tr>
+				<tr><td valign=top>(11)．</td><td>パスワード設定画面が現れるので、同じパスワードを２回入力する。<br><br></td></tr>
+				<tr><td valign=top>(12)．</td><td>パスワード設定完了画面が現れるので、再度quiz_op.cgiにアクセスし、管理人室にログインする。<br><br></td></tr>
+				<tr><td valign=top>(13)．</td><td>システム設定ボタンを押し、システム設定を行う<br><br></td></tr>
+				</table><br>
+				以上で、設置完了です。引き続きクイズを作成するには以下の作業を行ってください。<br><br>
+				<table border=0 cellpadding=0 cellspacing=0>
+				<tr><td valign=top>(14)．</td><td>ジャンル作成ボタンを押し、ジャンル作成を行い、引き続きジャンル設定を行う。<br><br></td></tr>
+				<tr><td valign=top>(15)．</td><td>問題作成ボタンを押し、問題を作成する。<br><br></td></tr>
+				<tr><td valign=top>(16)．</td><td>index.cgiにアクセスすると、(14)で作成したジャンルが表示される。<br><br></td></tr>
+				<tr><td valign=top>(17)．</td><td>挑戦リンクをクリックすると、(15)で作成した問題が出題される。<br><br></td></tr>
+				</table><br>
+				以上で、インストール作業完了です。
+				<br>
+				<br>
+				</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>起動したときにサーバーエラーが発生する</SMALL></TD>
+    <TD><SPAN>perlの実行パスが誤っている可能性があります。各サーバーによって実行パスが違う場合があります。デフォルトは　/usr/bin/perlにしてありますが、各サーバーにあわせてください。変更する場合は、quiz.cgi,index.cgi,quiz_op.cgiの１行目を書き換えてください。</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>起動したときにサーバーエラーが発生する</SMALL></TD>
+    <TD><SPAN>cgiスクリプトのパーミッションが誤っている可能性があります。各サーバーの指示に従ってください。デフォルトは　cgiスクリプトが755(rxwr-xr-x)、データファイルが666(rw-rw-rw-)、ディレクトリが777(rwxrwxrwx)です。スクリプトのパーミッションを変更する場合は、スクリプトをアップする際にパーミッションを変更してください。データファイル、ディレクトリのパーミッションを変更する場合は、function.cgiの14行目～17行目を変更してください。</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>自動作成ファイルが正しく生成できない</SMALL></TD>
+    <TD><SPAN>自動作成ファイルが正しく生成できない場合は、管理人室のパスワード登録ができません。パスワード登録ができた場合は、何らかのほかの原因が考えられます。パスワード登録ができない場合は、クイズを設置するディレクトリのパーミッションが777(rwxrwxrwx)になっていないか、サーバーの設定でファイルの作成が認められていない可能性があります。サーバーの設定でファイルの自動作成が認められていない場合は、添付しているfilemake.exeを実行し、あらかじめすべてのファイルを作成してアップしておく必要があります。手動でデータファイルをアップする場合は、手動にてデータファイルのパーミッションを設定してください。</SPAN></TD></TR>
+
+
+  <TR>
+    <TD bgColor=#aaeeee colSpan=2><SPAN>
+      <CENTER>■■■■■システム移行■■■■■</CENTER></SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>1.XX→2.XXに移行するには？</SMALL></TD>
+    <TD><SPAN>1.XXと2.XXは、いくつかのデータファイルの形式が変わりました。1.XX→1.XXのようにスクリプトファイルをアップデートするだけですべてのデータファイルに互換性があるわけではありません。<br><br>
+				【移行準備】
+				<table border=0 cellpadding=0 cellspacing=0>
+				<tr><td valign=top>(１)．</td><td>システム設定画面を開き、色、壁紙設定等のデザインをメモっておく<br><br></td></tr>
+				<tr><td valign=top>(２)．</td><td>ジャンル設定画面を開き、色、壁紙設定等のデザインをメモっておく<br><br></td></tr>
+				</table><br>
+				【移行手順】
+				<table border=0 cellpadding=0 cellspacing=0>
+				<tr><td valign=top>(１)．</td><td>解凍した2.XXのファイルをすべて上書きする。<br><br></td></tr>
+				<tr><td valign=top>(２)．</td><td>system.cgiファイルを削除する。<br><br></td></tr>
+				</table><br>
+				以上で主な移行作業は完了です。ただし、システムデザイン、ジャンルデザインはデフォルトデザインになっていますので、個別に設定するためには以下の手順に従ってください。
+				<table border=0 cellpadding=0 cellspacing=0>
+				<tr><td valign=top>(３)．</td><td>システムデザイン設定画面にてシステムデザインを新規作成する。<br>適宜【移行準備】でメモったデザインを入力する。<br><br></td></tr>
+				<tr><td valign=top>(４)．</td><td>システム設定画面にて、作成したシステムデザインを選択する。<br><br></td></tr>
+				<tr><td valign=top>(５)．</td><td>ジャンルデザイン設定画面にてジャンルデザインを新規作成する。<br>適宜【移行準備】でメモったデザインを入力する。<br><br></td></tr>
+				<tr><td valign=top>(６)．</td><td>ジャンル設定画面にて、作成したジャンルデザインを選択する。<br><br></td></tr>
+				</table><br>
+				以上で完全な移行作業が完了です。なお、1.XXからのシステムデザイン、ジャンルデザインの自動移行はできません</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>2.XX→2.XXに移行するには？</SMALL></TD>
+    <TD><SPAN>ダウンロードしたスクリプトファイルを上書きするだけで移行完了です。</SPAN></TD></TR>
+
+
+  <TR>
+    <TD bgColor=#eeaaee colSpan=2><SPAN>
+      <CENTER>■■■■■システム設定■■■■■</CENTER></SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>同じサーバーで複数のqqqsystemsを稼動させる場合で、<br>個人成績を別々にしたいときは？</SMALL></TD>
+    <TD><SPAN>システム設定で、クッキーIDを異なるものにしてください</SPAN></TD></TR>
+
+
+  <TR>
+    <TD bgColor=#bbbbbb colSpan=2><SPAN>
+      <CENTER>■■■■■ジャンル設定■■■■■</CENTER></SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>クイズ解答時、正解を表示させるには？</SMALL></TD>
+    <TD><SPAN>ジャンルの編集画面で、正解表示の項目を「する」にチェックを入れてください</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>同じデザインを、複数のジャンルで使いたい場合は？</SMALL></TD>
+    <TD><SPAN>ジャンルデザインを作成し、そのジャンルデザインを使用したいジャンルの編集画面で、同じジャンルデザインを選択してください。</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>クイズ回答時にMIDIを鳴らしたい</SMALL></TD>
+    <TD><SPAN>ジャンルデザイン設定で、正解時MIDI、不正解時MIDI、終了時MIDI、高成績時MIDIのファイル名を入力してください</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>不正解時に解答を表示させたい</SMALL></TD>
+    <TD><SPAN>ジャンル設定で、「正解表示」を行うにセットしてください。 </SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>テキスト解答形式の投稿問題を禁止したい</SMALL></TD>
+    <TD><SPAN>ジャンル設定で「テキスト形式の投稿問題」を受け付けるに設定してください</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>投稿問題を自動的に採用したい</SMALL></TD>
+    <TD><SPAN>投稿問題は初期設定では管理者の承認を得て初めて正式採用されます。自動的に採用するためには、ジャンル設定の「投稿問題の自動採用」を行うに設定してください</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>クイズの出題順を固定したい</SMALL></TD>
+    <TD><SPAN>ジャンル設定の「出題順序」を固定に設定してください</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>ジャンルを作成したのに、メニューページ(index.cgi)で一覧に表示されない。</SMALL></TD>
+    <TD><SPAN>ジャンル設定の「ジャンルの動作状態」を「公開」にしてください。「工事中」にした場合一般ユーザーからはアクセスできません。</SPAN></TD></TR>
+
+
+  <TR>
+    <TD bgColor=#aaeeaa colSpan=2><SPAN>
+      <CENTER>■■■■■その他設定■■■■■</CENTER></SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>アクセスを禁止したいユーザーがいる</SMALL></TD>
+    <TD><SPAN>システムコマンドの「アクセス制限」から、アクセスを禁止したいユーザーのIPを指定することで、そのIPからはアクセスできなくすることができます。前方一致で判定しますので、「127.0.0」と設定すれば、「127.0.0.xxx」のIPのユーザーはアクセスできません。</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>アクセスを限定したい</SMALL></TD>
+    <TD><SPAN>システムコマンドの「アクセス制限」から、アクセスを許可したいユーザーのIPを指定することで、そのIPからはアクセスできなくすることができます。前方一致で判定しますので、「127.0.0」と設定すれば、「127.0.0.xxx」のIPのユーザーしかアクセスできません。</SPAN></TD></TR>
+
+
+
+  <TR>
+    <TD bgColor=#aaeeee colSpan=2><SPAN>
+      <CENTER>■■■■■TIPS■■■■■</CENTER></SPAN></TD></TR>
+
+  <TR>
+    <TD noWrap><SMALL>○×クイズを作成したい</SMALL></TD>
+    <TD><SPAN>クイズの選択肢を○と×のみにしてください</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>画像を使った問題を作りたい</SMALL></TD>
+    <TD><SPAN>問題文に画像を張るimgタグを書き込んでください</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>画像を使った選択肢を作りたい</SMALL></TD>
+    <TD><SPAN>選択肢に画像を張るimgタグを書き込んでください</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>クイズ終了時に、成績に応じてMIDIを鳴らしたい</SMALL></TD>
+    <TD><SPAN>成績に応じてMIDIを鳴らす機能はありません。終了時メッセージにMIDIを再生するタグを書き込んでください</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>問題の投稿を簡単に知りたい</SMALL></TD>
+    <TD><SPAN>メールによる自動配信機能はありません。管理人室にログインし、ジャンルの一覧を見ることで、承認待ちの投稿問題数を知ることができます。</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>表が横に長くなり見辛くなる</SMALL></TD>
+    <TD><SPAN>「システム設定」の「自動文字折り返し」を行うに設定してください。ブラウザの機能で適当な個所で改行します。ただし不適当な個所で改行されレイアウトが崩れる可能性があります。明示的に&lt;br&gt;タグを挿入し、レイアウトを確実なものにしたい場合は、自動折り返し機能を行わないようにしてください</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>新しいジャンルを作る際に、レイアウトや登録問題などのテストを<br>ユーザーにわからないように行いたい</SMALL></TD>
+    <TD><SPAN>ジャンル設定で、「ジャンルの動作状態」を「工事中」に設定すると、トップページには表示されません。管理人室のジャンル一覧からのリンクからのみ利用可能となります。デザインの確認や出題問題の確認等は、工事中の状態で行うことで、一般ユーザーからは一切見ることはできません</SPAN></TD></TR>
+
+
+  <TR>
+    <TD bgColor=#aaeeee colSpan=2><SPAN>
+      <CENTER>■■■■■使用条件/サポート■■■■■</CENTER></SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>qqqsystemsを使用するにあたって、使用条件はありますか？</SMALL></TD>
+    <TD><SPAN>本システムはフリースクリプトです。個人利用、商用利用、改造、設置場所、クイズの内容を問わず、ご自由に使っていただいて結構です。ただし著作権は放棄しませんので、スクリプトの販売をご希望の方はご一報ください</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>フッターにある、ガンダムカルトQQQへのリンクを削除したい</SMALL></TD>
+    <TD><SPAN>当スクリプトの著作権は放棄いたしませんが、フッターにある当HPへのリンク等は特に強制するものではありません。設置目的に応じてどうしても不適当だという場合は消していただいてもかまいません。その際はfunction.cgiのfooter_html関数をご自分で編集してください。</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>機能を追加してほしい場合は？</SMALL></TD>
+    <TD><SPAN>CGIスクリプトに対する追加機能要望はメールかCGIスクリプト専用掲示板にて承ります。ただし、機能追加を行うかどうかは開発者の判断にて行うものであり、必ずしも希望にかなうものではありません</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>バグがあるんだけれども</SMALL></TD>
+    <TD><SPAN>バグ、不具合などに関する報告は、メールかCGIスクリプト専用掲示板にて承ります。バグはなるべくはやく対応したいと思いますが、バグフィックスを行う義務は負いません</SPAN></TD></TR>
+  <TR>
+    <TD noWrap><SMALL>有償にてカスタマイズをお願いしたい</SMALL></TD>
+    <TD><SPAN>現在有償にてのカスタマイズは受け付けておりません。</SPAN></TD></TR>
+
+
+  </TBODY></TABLE></CENTER>
+<HR>
+
+<DIV align=right><SPAN><A target=_parent 
+href="http://ha1.seikyou.ne.jp/home/jun/">qqq systems Ver2.00</A></SPAN> 
+</DIV></BODY></HTML>

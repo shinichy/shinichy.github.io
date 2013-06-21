@@ -1,0 +1,649 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 7.0.0.0 for Windows">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE>ＦＦⅦ－おまけ</TITLE>
+</HEAD>
+<BODY text="#000000" bgcolor="#ffcc99" link="#006600" vlink="#33cc33" alink="#cc33cc">
+<H1 align="center">おまけ</H1>
+<HR>
+<H2 align="center"><FONT color="#0000ff"><A name="ワールドマップ">ワールドマップ</A></FONT></H2>
+<CENTER>
+<TABLE border="1">
+  <TBODY>
+    <TR>
+      <TD><IMG src="map/world map omake.GIF" width="630" height="406" border="0"></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+<BR>
+<H2 align="center"><A name="海底マップ"><FONT color="#0000ff">海底マップ</FONT></A></H2>
+<BR>
+<TABLE border="1">
+  <TBODY>
+    <TR>
+      <TD><IMG src="map/kaitei map.GIF" width="441" height="343" border="0"></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<HR>
+<H2 align="center"><FONT color="#0000ff"><A name="最強武器入手表">最強武器入手表</A></FONT></H2>
+<CENTER>
+<TABLE bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#00ff00" align="center"><B>キャラ</B></TD>
+      <TD bgcolor="#00ff00" align="center"><B>武器名</B></TD>
+      <TD bgcolor="#00ff00" align="center"><B>入手可能時期</B></TD>
+      <TD bgcolor="#00ff00" align="center"><B>入手方法</B></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>クラウド</B></TD>
+      <TD bgcolor="#ffffff" align="center">アルテマウェポン</TD>
+      <TD bgcolor="#ffffff" align="center">ミッドガル八番街クリア後</TD>
+      <TD bgcolor="#ffffff">ジュノンエリアの湖にいるアルテマウェポンに近づく<BR>
+      バトルになるが、途中で逃げてしまう<BR>
+      ちなみに<FONT color="#ff0066">呪いの指輪</FONT>、<FONT color="#ff0066">リフレクトリング</FONT>、<FONT color="#ff0066">サークレット</FONT>のいずれかが盗める<BR>
+      戦闘後Ｌ１orＲ１を押ながら左or右を押して、旋回すると逃走中のアルテマウェポン<BR>
+      が見えることがあります（確率２０％くらい）<BR>
+      見つからない場合は世界中を回ってアルテマウェポンを見つけましょう<BR>
+      アルテマウェポンはどこかの空を飛び回っています<BR>
+      海の上にいることが多いようです<BR>
+      見つけたら何度も体当たりします<BR>
+      すると旋回するのをやめて１直線にどこかに飛んでいき、止まったら再びバトル！<BR>
+      これを数回（管理人は１０回）繰り返すと最後は上のワールドマップの<BR>
+      古の森（コスモエリア）付近に止まっているので近づくとバトル！<BR>
+      <TABLE bgcolor="#0000ff">
+        <TBODY>
+          <TR>
+            <TD colspan="4" bgcolor="#00ff00" align="center">ＶＳ：アルテマウェポン</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">ＨＰ</TD>
+            <TD bgcolor="#e1e1ff" align="center">１０００００</TD>
+            <TD bgcolor="#e1e1ff" align="center">弱点属性</TD>
+            <TD bgcolor="#e1e1ff" align="center"></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">ＭＰ</TD>
+            <TD bgcolor="#e1e1ff" align="center">４００</TD>
+            <TD bgcolor="#e1e1ff" align="center">耐性属性</TD>
+            <TD bgcolor="#e1e1ff" align="center">土無効（空中戦のみ）、重無効、水無効</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">ＥＸＰ</TD>
+            <TD bgcolor="#e1e1ff" align="center">３５０００</TD>
+            <TD bgcolor="#e1e1ff" align="center">有効ステータス</TD>
+            <TD bgcolor="#e1e1ff" align="center"></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">ＡＰ</TD>
+            <TD bgcolor="#e1e1ff" align="center">３５００</TD>
+            <TD bgcolor="#e1e1ff" align="center">落とすアイテム</TD>
+            <TD bgcolor="#e1e1ff" align="center">アルテマウェポン</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">ギル</TD>
+            <TD bgcolor="#e1e1ff" align="center">２５０００</TD>
+            <TD bgcolor="#e1e1ff" align="center">盗めるアイテム</TD>
+            <TD bgcolor="#e1e1ff" align="center">呪いの指輪、リフレクトリング、サークレット</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#d0d0ff" colspan="4">ラストは空中戦なので盗むはできません<BR>
+            物理攻撃は遠距離のもの以外は届かないので魔法主体で戦いましょう<BR>
+            死に際に８０００ほどのダメージを与えるシャドウフレアを使ってくるので、<BR>
+            止めをさす時はＨＰ全快＋マバリア状態で止めをさしましょう</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      <BR>
+      ちなみにアルテマウェポンを倒すとクレーターが出現し、<A href="#古の森">古えの森</A>に行けます</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>バレット</B></TD>
+      <TD bgcolor="#ffffff" align="center">ミッシングスコア</TD>
+      <TD bgcolor="#ffffff" align="center">ミッドガル八番街にいる間</TD>
+      <TD bgcolor="#ffffff"><A href="scenario4.FF7.html#ミッシングスコア">シナリオ攻略４参照</A><BR>
+      取り逃していると残念ながらもう手に入りません</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>ティファ</B></TD>
+      <TD bgcolor="#ffffff" align="center">プレミアムハート</TD>
+      <TD bgcolor="#ffffff" align="center">ヒュージマテリアのイベント後</TD>
+      <TD bgcolor="#ffffff">徒歩でミッドガルに行き、ゲートのそばにいる人に話しかける<BR>
+      ボーンビレッジで「普通のお宝」をハックツして<FONT color="#ff0066">伍番街ゲートの鍵</FONT>を入手する<BR>
+      ミッドガルへ行き、ウォールマーケットのアイテムやのコンピュータを調べると入手<BR>
+      <BR>
+      ちなみにウォールマーケットの武器屋の奥にいる人から<FONT color="#ff0066">盗賊の小手</FONT>が買える<BR>
+      値段は１２９０００ギル</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>レッドXIII</B></TD>
+      <TD bgcolor="#ffffff" align="center">リミテッドムーン</TD>
+      <TD bgcolor="#ffffff" align="center">ＤＩＳＫ３</TD>
+      <TD bgcolor="#ffffff">レッドXIIIをパーティに入れてコスモキャニオンのブーゲンハーゲンの所へ行く</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>ユフィ</B></TD>
+      <TD bgcolor="#ffffff" align="center">不倶戴天</TD>
+      <TD bgcolor="#ffffff" align="center">潜水艦入手後</TD>
+      <TD bgcolor="#ffffff"><A href="#神羅飛空艇">神羅飛空艇参照</A></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>ケット・シー</B></TD>
+      <TD bgcolor="#ffffff" align="center">マーベラスチアー</TD>
+      <TD bgcolor="#ffffff" align="center">ミッドガル八番街にいる間</TD>
+      <TD bgcolor="#ffffff"><A href="scenario4.FF7.html#マーベラスチアー">シナリオ攻略４参照</A><BR>取り逃していると残念ながらもう手に入りません</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>ヴィンセント</B></TD>
+      <TD bgcolor="#ffffff" align="center">デスペナルティ</TD>
+      <TD bgcolor="#ffffff" align="center">潜水艦入手後</TD>
+      <TD bgcolor="#ffffff">ヴィンセントをパーティに入れてニブルエリアとゴールドソーサーエリアの間にある<BR>
+      湖の洞窟に行く<BR>
+      イベント後いったん外に出て戦闘回数をある程度こなしてから再び行くと入手<BR>
+      ちなみに究極リミット技も同時に手に入る<BR>
+      <BR>
+      なおこの場所は潜水艦か山チョコボ以上のチョコボでしか入れない</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>シド</B></TD>
+      <TD bgcolor="#ffffff" align="center">ビーナスゴスペル</TD>
+      <TD bgcolor="#ffffff" align="center">ロケット発射後</TD>
+      <TD bgcolor="#ffffff">ロケットを見上げていたじいさんに３回話し掛ける</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<HR>
+<H2 align="center"><A name="究極リミット技入手表"><FONT color="#0000ff">究極リミット技入手表</FONT></A></H2>
+<CENTER>
+<TABLE bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#00ff00" align="center"><B>キャラ</B></TD>
+      <TD bgcolor="#00ff00" align="center"><B>技名</B></TD>
+      <TD bgcolor="#00ff00" align="center"><B>入手可能時期</B></TD>
+      <TD bgcolor="#00ff00" align="center"><B>入手方法</B></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>クラウド</B></TD>
+      <TD bgcolor="#ffffff" align="center">超究武神覇斬</TD>
+      <TD bgcolor="#ffffff" align="center">ＤＩＳｋ１</TD>
+      <TD bgcolor="#ffffff">バトルスクウェアでＢＰを３２０００（ＤＩＳＫ１では５１２００）ためて<BR>
+      景品として交換する</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>バレット</B></TD>
+      <TD bgcolor="#ffffff" align="center">カタストロフィ</TD>
+      <TD bgcolor="#ffffff" align="center">北コレルのヒュージマテリアイベント後</TD>
+      <TD bgcolor="#ffffff"><A href="scenario4.FF7.html#カタストロフィ">シナリオ攻略４参照</A></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>ティファ</B></TD>
+      <TD bgcolor="#ffffff" align="center">ファイナルヘヴン</TD>
+      <TD bgcolor="#ffffff" align="center">クラウド復帰後</TD>
+      <TD bgcolor="#ffffff">ニブルヘイムのティファの部屋で５年前のクラウドが弾いたメロディを弾く<BR>
+      ※ドレミシラドレミソファドレド<BR>
+      リズムはバラバラでもＯＫ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>エアリス</B></TD>
+      <TD bgcolor="#ffffff" align="center">大いなる福音</TD>
+      <TD bgcolor="#ffffff" align="center">タイニーブロンコ入手後</TD>
+      <TD bgcolor="#ffffff">戦闘回数の下２ケタが「７７」１４４」など奇数のぞろ目の時<BR>
+      ジュノンエリアの洞窟にいるオヤジに話しかけると<FONT color="#ff0066">ミスリル</FONT>がもらえる<BR>
+      ※オヤジはたまに戦闘回数を教えてくれるので、それを目安にしましょう<BR>
+      ちなみにＤＩＳｋ１の時点で行くにはバギーが必要<BR>
+      ※バギーに乗ったままコスタ・デル・ソルへ行き、ジュノンエリアへ<BR>
+      <BR>
+      次に武器職人の小屋へ行き、武器職人に<FONT color="#ff0066">ミスリル</FONT>を渡す<BR>
+      ２階の宝箱を開けると入手</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>レッドⅩⅢ</B></TD>
+      <TD bgcolor="#ffffff" align="center">コスモメモリー</TD>
+      <TD bgcolor="#ffffff" align="center">ＤＩＳｋ１</TD>
+      <TD bgcolor="#ffffff"><A href="scenario2.FF7.html#コスモメモリー">シナリオ攻略２参照</A></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>ユフィ</B></TD>
+      <TD bgcolor="#ffffff" align="center">森羅万象</TD>
+      <TD bgcolor="#ffffff" align="center">ＤＩＳｋ１</TD>
+      <TD bgcolor="#ffffff"><A href="#五強の塔">五強の塔</A>をクリアする</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>ヴィンセント</B></TD>
+      <TD bgcolor="#ffffff" align="center">カオス</TD>
+      <TD bgcolor="#ffffff" align="center">潜水艦入手後</TD>
+      <TD bgcolor="#ffffff">最強武器と同時に手に入る</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>シド</B></TD>
+      <TD bgcolor="#ffffff" align="center">ハイウィンド</TD>
+      <TD bgcolor="#ffffff" align="center">潜水艦入手後</TD>
+      <TD bgcolor="#ffffff"><A href="#神羅飛空艇">神羅飛空艇参照</A></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<HR>
+<H2 align="center"><A name="五強の塔"><FONT color="#0000ff">五強の塔</FONT></A></H2>
+<P align="center">ユフィ１人で戦うので装備やマテリアは最強のものをつけましょう<BR>
+レベルは４０くらいあればいけると思います</P>
+<CENTER>
+<TABLE bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD colspan="4" bgcolor="#00ff00" align="center">ＶＳ：ゴーリキー</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＨＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">３０００</TD>
+      <TD bgcolor="#e1e1ff" align="center">弱点属性</TD>
+      <TD bgcolor="#e1e1ff" align="center">風</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＭＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">１５０</TD>
+      <TD bgcolor="#e1e1ff" align="center">耐性属性</TD>
+      <TD bgcolor="#e1e1ff" align="center">土無効、重無効</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＥＸＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">１５００</TD>
+      <TD bgcolor="#e1e1ff" align="center">有効ステータス</TD>
+      <TD bgcolor="#e1e1ff" align="center">毒、ストップ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＡＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">５０</TD>
+      <TD bgcolor="#e1e1ff" align="center">落とすアイテム</TD>
+      <TD bgcolor="#e1e1ff" align="center">エクスポーション</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ギル</TD>
+      <TD bgcolor="#e1e1ff" align="center">０</TD>
+      <TD bgcolor="#e1e1ff" align="center">盗めるアイテム</TD>
+      <TD bgcolor="#e1e1ff" align="center"></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#d0d0ff" colspan="4">武器にＭ：ぞくせい＋チョコボ＆モーグリをつけましょう<BR>
+      バイオやチョコボ＆モーグリで毒とストップにすると戦いやすいです</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<CENTER><BR>
+</CENTER>
+<CENTER>
+<TABLE bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD colspan="4" bgcolor="#00ff00" align="center">ＶＳ：シェイク</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＨＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">４０００</TD>
+      <TD bgcolor="#e1e1ff" align="center">弱点属性</TD>
+      <TD bgcolor="#e1e1ff" align="center"></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＭＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">１８０</TD>
+      <TD bgcolor="#e1e1ff" align="center">耐性属性</TD>
+      <TD bgcolor="#e1e1ff" align="center">重無効</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＥＸＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">２２００</TD>
+      <TD bgcolor="#e1e1ff" align="center">有効ステータス</TD>
+      <TD bgcolor="#e1e1ff" align="center">毒、ストップ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＡＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">５０</TD>
+      <TD bgcolor="#e1e1ff" align="center">落とすアイテム</TD>
+      <TD bgcolor="#e1e1ff" align="center">エーテルターボ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ギル</TD>
+      <TD bgcolor="#e1e1ff" align="center">０</TD>
+      <TD bgcolor="#e1e1ff" align="center">盗めるアイテム</TD>
+      <TD bgcolor="#e1e1ff" align="center"></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#d0d0ff" colspan="4">レベル４自爆が効くので楽勝です</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+<BR>
+</CENTER>
+<CENTER>
+<TABLE bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD colspan="4" bgcolor="#00ff00" align="center">ＶＳ：チェホフ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＨＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">５０００</TD>
+      <TD bgcolor="#e1e1ff" align="center">弱点属性</TD>
+      <TD bgcolor="#e1e1ff" align="center"></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＭＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">２１０</TD>
+      <TD bgcolor="#e1e1ff" align="center">耐性属性</TD>
+      <TD bgcolor="#e1e1ff" align="center">重無効</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＥＸＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">２９００</TD>
+      <TD bgcolor="#e1e1ff" align="center">有効ステータス</TD>
+      <TD bgcolor="#e1e1ff" align="center">毒、ストップ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＡＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">５０</TD>
+      <TD bgcolor="#e1e1ff" align="center">落とすアイテム</TD>
+      <TD bgcolor="#e1e1ff" align="center">冷気の指輪</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ギル</TD>
+      <TD bgcolor="#e1e1ff" align="center">０</TD>
+      <TD bgcolor="#e1e1ff" align="center">盗めるアイテム</TD>
+      <TD bgcolor="#e1e1ff" align="center"></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#d0d0ff" colspan="4">リボンを装備していればステータス異常にならないので楽勝です</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+<BR>
+</CENTER>
+<CENTER>
+<TABLE bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD colspan="4" bgcolor="#00ff00" align="center">ＶＳ：スタニフ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＨＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">６０００</TD>
+      <TD bgcolor="#e1e1ff" align="center">弱点属性</TD>
+      <TD bgcolor="#e1e1ff" align="center"></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＭＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">２４０</TD>
+      <TD bgcolor="#e1e1ff" align="center">耐性属性</TD>
+      <TD bgcolor="#e1e1ff" align="center">重無効</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＥＸＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">３６００</TD>
+      <TD bgcolor="#e1e1ff" align="center">有効ステータス</TD>
+      <TD bgcolor="#e1e1ff" align="center">毒、ストップ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＡＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">５０</TD>
+      <TD bgcolor="#e1e1ff" align="center">落とすアイテム</TD>
+      <TD bgcolor="#e1e1ff" align="center">エリクサー</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ギル</TD>
+      <TD bgcolor="#e1e1ff" align="center">０</TD>
+      <TD bgcolor="#e1e1ff" align="center">盗めるアイテム</TD>
+      <TD bgcolor="#e1e1ff" align="center"></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#d0d0ff" colspan="4">レベル４自爆が効くので問題なし</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+<BR>
+</CENTER>
+<CENTER>
+<TABLE bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD colspan="4" bgcolor="#00ff00" align="center">ＶＳ：ゴドー</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＨＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">１００００</TD>
+      <TD bgcolor="#e1e1ff" align="center">弱点属性</TD>
+      <TD bgcolor="#e1e1ff" align="center"></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＭＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">１０００</TD>
+      <TD bgcolor="#e1e1ff" align="center">耐性属性</TD>
+      <TD bgcolor="#e1e1ff" align="center"></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＥＸＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">５０００</TD>
+      <TD bgcolor="#e1e1ff" align="center">有効ステータス</TD>
+      <TD bgcolor="#e1e1ff" align="center">毒</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ＡＰ</TD>
+      <TD bgcolor="#e1e1ff" align="center">６０</TD>
+      <TD bgcolor="#e1e1ff" align="center">落とすアイテム</TD>
+      <TD bgcolor="#e1e1ff" align="center">森羅万象</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#e1e1ff" align="center">ギル</TD>
+      <TD bgcolor="#e1e1ff" align="center">４００００</TD>
+      <TD bgcolor="#e1e1ff" align="center">盗めるアイテム</TD>
+      <TD bgcolor="#e1e1ff" align="center"></TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#d0d0ff" colspan="4">ある程度ダメージを与えるとカウンターでケアルラを使ってくる<BR>
+      重力属性が効くのでレーザーやグラビガを使ってＨＰを減らし<BR>
+      とどめはリミット技かマジカルブレスでさしましょう</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<P align="center">ゴドーに勝つと<FONT color="#ff0066">Ｍ：リヴァイアサン</FONT>入手</P>
+<HR>
+<H2 align="center"><A name="神羅飛空艇"><FONT color="#0000ff">神羅飛空艇</FONT></A></H2>
+<CENTER>
+<TABLE bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#ffffff">場所は<A href="#海底マップ">海底マップ</A>参照<BR>
+      <BR>
+      ユフィの最強武器やシドの究極リミット技などたくせんの貴重なアイテムがたくさんあります<BR>
+      しかし出現する敵も強敵が多いので十分強くなってから挑戦しましょう<BR>
+      途中タークスが出現しますが、ミッドガル八番街クリア後だと現れません<BR>
+      ＤＩＳｋ２のうちにせめてタークスだけでも倒しておきましょう<BR>
+      また、○○アップ系のアイテムがたくさん手に入るのでステータスをＭＡＸまで上げる時は利用しましょう
+      <HR>
+      ★通路<BR>
+      天の叢雲<BR>
+      ★研究室<BR>
+      エスコートガード、不倶戴天、Ｍ：れんぞくぎり、ラストエリクサー<BR>
+      ★カーゴルーム<BR>
+      ラストエリクサー、ロンギヌス、アウトサイダー、ハイウインド、Ｍ：ハーデス</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#ffffff">■強いザコ敵の倒し方を紹介しておきます<BR>
+      <BR>
+      ＶＳ正体不明<BR>
+      重力属性が有効です<BR>
+      またマジックハンマーを使ってＭＰを０にしてもよいです<BR>
+      烈火の腕輪が盗め、「へんか」で倒すと<FONT color="#ff0066">パワーアップ</FONT>になります<BR>
+      <BR>
+      ＶＳ正体不明２<BR>
+      重力属性が有効です<BR>
+      また眠りも効きます<BR>
+      極光の腕輪が盗め、「へんか」で倒すと<FONT color="#ff0066">ガードアップ</FONT>になります<BR>
+      <BR>
+      ＶＳ正体不明３<BR>
+      レベル４自爆が効きます<BR>
+      また重力属性も有効です<BR>
+      天雷の腕輪が盗め、「へんか」で倒すと<FONT color="#ff0066">マジックアップ</FONT>になります<BR>
+      <BR>
+      ★他にもレアなアイテムが盗めたり、手に入ったりします<BR>
+      <FONT color="#ff0066">スピードアップ</FONT>：プドゥレアを「へんか」で倒す<BR>
+      <FONT color="#ff0066">ラックアップ</FONT>：イビルラップを「へんか」で倒す<BR>
+      イカスミ：イビルラップから盗む<BR>
+      <FONT color="#ff0066">マインドアップ</FONT>：サーペントを「へんか」で倒す<BR>
+      水の指輪：サーペントから盗む<BR>
+      <BR>
+      <TABLE border="1">
+        <TBODY>
+          <TR>
+            <TD bgcolor="#d0d0ff">
+            <TABLE bgcolor="#0000ff">
+              <TBODY>
+                <TR>
+                  <TD colspan="4" bgcolor="#00ff00" align="center">ＶＳ：　タークス：レノ</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#e1e1ff" align="center">ＨＰ</TD>
+                  <TD bgcolor="#e1e1ff" align="center">１５０００</TD>
+                  <TD bgcolor="#e1e1ff" align="center">弱点属性</TD>
+                  <TD bgcolor="#e1e1ff" align="center"></TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#e1e1ff" align="center">ＭＰ</TD>
+                  <TD bgcolor="#e1e1ff" align="center">２３０</TD>
+                  <TD bgcolor="#e1e1ff" align="center">耐性属性</TD>
+                  <TD bgcolor="#e1e1ff" align="center">重無効</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#e1e1ff" align="center">ＥＸＰ</TD>
+                  <TD bgcolor="#e1e1ff" align="center">５０００</TD>
+                  <TD bgcolor="#e1e1ff" align="center">有効ステータス</TD>
+                  <TD bgcolor="#e1e1ff" align="center">毒</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#e1e1ff" align="center">ＡＰ</TD>
+                  <TD bgcolor="#e1e1ff" align="center">３００</TD>
+                  <TD bgcolor="#e1e1ff" align="center">落とすアイテム</TD>
+                  <TD bgcolor="#e1e1ff" align="center"></TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#e1e1ff" align="center">ギル</TD>
+                  <TD bgcolor="#e1e1ff" align="center">４０００</TD>
+                  <TD bgcolor="#e1e1ff" align="center">盗めるアイテム</TD>
+                  <TD bgcolor="#e1e1ff" align="center">タフネスリング</TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            </TD>
+            <TD bgcolor="#d0d0ff">
+            <TABLE bgcolor="#0000ff">
+              <TBODY>
+                <TR>
+                  <TD colspan="4" bgcolor="#00ff00" align="center">ＶＳ：　タークス：ルード</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#e1e1ff" align="center">ＨＰ</TD>
+                  <TD bgcolor="#e1e1ff" align="center">２００００</TD>
+                  <TD bgcolor="#e1e1ff" align="center">弱点属性</TD>
+                  <TD bgcolor="#e1e1ff" align="center"></TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#e1e1ff" align="center">ＭＰ</TD>
+                  <TD bgcolor="#e1e1ff" align="center">２８０</TD>
+                  <TD bgcolor="#e1e1ff" align="center">耐性属性</TD>
+                  <TD bgcolor="#e1e1ff" align="center">重無効</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#e1e1ff" align="center">ＥＸＰ</TD>
+                  <TD bgcolor="#e1e1ff" align="center">５５００</TD>
+                  <TD bgcolor="#e1e1ff" align="center">有効ステータス</TD>
+                  <TD bgcolor="#e1e1ff" align="center">毒</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#e1e1ff" align="center">ＡＰ</TD>
+                  <TD bgcolor="#e1e1ff" align="center">３６０</TD>
+                  <TD bgcolor="#e1e1ff" align="center">落とすアイテム</TD>
+                  <TD bgcolor="#e1e1ff" align="center">エリクサー</TD>
+                </TR>
+                <TR>
+                  <TD bgcolor="#e1e1ff" align="center">ギル</TD>
+                  <TD bgcolor="#e1e1ff" align="center">５０００</TD>
+                  <TD bgcolor="#e1e1ff" align="center">盗めるアイテム</TD>
+                  <TD bgcolor="#e1e1ff" align="center">ザイドリッツ</TD>
+                </TR>
+              </TBODY>
+            </TABLE>
+            </TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#d0d0ff" colspan="2">ネオタークス光線で混乱状態になるので、リボンを装備しましょう<BR>
+            アイテムを盗んでから倒しましょう<BR>
+            １人倒しても片方はちゃんと残るので１人ずつ倒しましょう</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      </TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<HR>
+<H2 align="center"><FONT color="#0000ff"><A name="古の森">古えの森</A></FONT></H2>
+<CENTER>
+<TABLE bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>行き方</B></TD>
+      <TD bgcolor="#ffffff">場所はコスモキャニオンのそば（<A href="#ワールドマップ">ワールドマップ</A>で確認してください）<BR>
+      山チョコボで登っていく<BR>
+      またはアルテマウェポンを倒した後クレーターができるので、そこから徒歩で行く</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>フロア１</B></TD>
+      <TD bgcolor="#ffffff">まれに出てくるオチューを「へんか」で倒すと<FONT color="#ff0066">リボン</FONT>が手に入る<BR>
+      <BR>
+      花に喰われないぎりぎりの所まで近づいて宝を取る<BR>
+      食虫植物の近くに虫を３匹置いておいて消化し終える前に通過する
+      <HR>
+      ハイブロウＳＴ、スプリガンクリップ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>フロア２</B></TD>
+      <TD bgcolor="#ffffff">虫を取ってツタにのぼる<BR>
+      左の食虫植物にカエルを与えて口の上に乗り、そのまま待つ<BR>
+      反動で上の花に乗れるので、石を取って下に降り、左の花に食わせる<BR>
+      マテリアを取る<BR>
+      今度は右の食虫植物にカエルを与えて反動で右に行く
+      <HR>
+      Ｍ：ぜんたいぎり、ミネルバブレス</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc" align="center"><B>フロア３</B></TD>
+      <TD bgcolor="#ffffff">エサを２匹与えてツタにのって上に行く<BR>
+      左に行くとフロア２に行ける。そこで<FONT color="#ff0066">ミネルバブレス</FONT>入手<BR>
+      再びフロア３に戻りさっきと同じように上に行く<BR>
+      今度は右に行って、下に降りる前に<FONT color="#ff0066">Ｍ：テュポーン</FONT>を取る<BR>
+      下に降りて右に行く<BR>
+      食虫植物にエサを与えてふたの上に乗り、上ボタンを押して上に登る<BR>
+      石を持って下に降り、花に食わせる<BR>
+      花の横を通って左の食虫植物にエサを与えて左に戻る<BR>
+      木の幹の穴に虫を入れてカエルをもつ<BR>
+      右に行く<BR>
+      右端の食虫植物にカエルを与えて反動で右の穴に入る
+      <HR>
+      ★森<BR>
+      Ｍ：テュポーン<BR>
+      ★洞窟<BR>
+      アポカリプス、エリクサー</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

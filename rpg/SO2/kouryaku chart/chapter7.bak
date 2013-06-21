@@ -1,0 +1,173 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 7.0.0.0 for Windows">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE>セントラルシティ</TITLE>
+</HEAD>
+<BODY text="#000000" bgcolor="#a3e0e0" link="#FF8040" vlink="#999999" alink="#bc7a7a">
+<H2 align="center">セントラルシティ</H2>
+<P align="center"><A href="../private action list2.html#セントラルシティ">プライベートアクション</A></P>
+<P align="center"><A href="../pick pocket list3.html#セントラルシティ">ピックポケット</A></P>
+<CENTER>
+<TABLE border="1" bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc">チャート</TD>
+      <TD bgcolor="#ffffff">ナールに話しを聞いた後、北のノースシティへ<BR>
+      武器や防具はノースシティの方が強力なものを売っているので、買う必要なし<BR>
+      ■チサト<BR>
+      チサトを仲間にしたければ、酒場・宿屋があるマップでチサトを見かけておく必要がある<BR>
+      サイナード飼育場でサイナードと戦うまで現れる</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<HR>
+<H2 align="center">ノースシティ</H2>
+<P align="center"><A href="../private action list2.html#ノースシティ">プライベートアクション</A></P>
+<P align="center"><A href="../pick pocket list3.html#ノースシティ">ピックポケット</A></P>
+<CENTER>
+<TABLE border="1" bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc">チャート</TD>
+      <TD bgcolor="#ffffff">装備を整えてサイナード飼育場へ<BR>
+      サイナードとバトル！<BR>
+      <TABLE bgcolor="#0000ff" border="1">
+        <TBODY>
+          <TR>
+            <TD colspan="4" bgcolor="#00ff00" align="center">サイナード</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">ＨＰ</TD>
+            <TD bgcolor="#e1e1ff" align="center">４３０００</TD>
+            <TD bgcolor="#e1e1ff" align="center">弱点属性</TD>
+            <TD bgcolor="#e1e1ff" align="center">雷</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">ＭＰ</TD>
+            <TD bgcolor="#e1e1ff" align="center">２００</TD>
+            <TD bgcolor="#e1e1ff" align="center">耐性属性</TD>
+            <TD bgcolor="#e1e1ff" align="center"></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">経験値</TD>
+            <TD bgcolor="#e1e1ff" align="center">８００００</TD>
+            <TD bgcolor="#e1e1ff" align="center">入手アイテム</TD>
+            <TD bgcolor="#e1e1ff" align="center">マインドリング</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">フォル</TD>
+            <TD bgcolor="#e1e1ff" align="center">２００００</TD>
+            <TD bgcolor="#e1e1ff" align="center"></TD>
+            <TD bgcolor="#e1e1ff" align="center"></TD>
+          </TR>
+          <TR>
+            <TD colspan="4" bgcolor="#d0d0ff">攻撃範囲の広いブレスを多用してくるので、挟み撃ちしましょう<BR>
+            クロードは兜割がオススメです</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      ノエルの家へ</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<HR>
+<H2 align="center">ノエルの家</H2>
+<CENTER>
+<TABLE border="1" bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc">チャート</TD>
+      <TD bgcolor="#ffffff">一時的にノエルが仲間になります<BR>
+      紅水晶の洞窟へ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc">入手アイテム</TD>
+      <TD bgcolor="#ffffff" align="left">大自然の生命、ペットの餌、５００００フォル</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<HR>
+<H2 align="center">紅水晶の洞窟</H2>
+<CENTER>
+<TABLE border="1" bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc">チャート</TD>
+      <TD bgcolor="#ffffff">構造は単純なので、迷うことはないでしょう<BR>
+      セントラルシティでチサトを見かけていれば、鷹の羽衣があるマップでチサトが登場<BR>
+      チサトの名刺を落とすので、必ず拾っておく<BR>
+      奥でアルクメーネ×２とバトル！<BR>
+      <TABLE bgcolor="#0000ff" border="1">
+        <TBODY>
+          <TR>
+            <TD colspan="4" bgcolor="#00ff00" align="center">アルクメーネ</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">ＨＰ</TD>
+            <TD bgcolor="#e1e1ff" align="center">４００００</TD>
+            <TD bgcolor="#e1e1ff" align="center">弱点属性</TD>
+            <TD bgcolor="#e1e1ff" align="center">雷</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">ＭＰ</TD>
+            <TD bgcolor="#e1e1ff" align="center">０</TD>
+            <TD bgcolor="#e1e1ff" align="center">耐性属性</TD>
+            <TD bgcolor="#e1e1ff" align="center"></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">経験値</TD>
+            <TD bgcolor="#e1e1ff" align="center">３９０００</TD>
+            <TD bgcolor="#e1e1ff" align="center">入手アイテム</TD>
+            <TD bgcolor="#e1e1ff" align="center">スチールアーマー<BR>
+            リバースドール</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">フォル</TD>
+            <TD bgcolor="#e1e1ff" align="center">２６０００</TD>
+            <TD bgcolor="#e1e1ff" align="center"></TD>
+            <TD bgcolor="#e1e1ff" align="center"></TD>
+          </TR>
+          <TR>
+            <TD colspan="4" bgcolor="#d0d0ff">素早いので、遠距離から必殺技を使うほうが有効です<BR>
+            呪文があるなら呪文で攻撃した直後に攻撃しましょう</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      ノエルが正式に仲間になる<BR>
+      サイナード入手<BR>
+      セントラルシティへ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc">入手アイテム</TD>
+      <TD bgcolor="#ffffff" align="left">リザレクトボトル<BR>
+      紋章術理論、ドリームブレスレット、？ＭＩＮＥＲＡＬ（ムーナイト）<BR>
+      シンデレラグラス<BR>
+      鷹の羽衣<BR>
+      フルーツシロップ、？ＭＩＮＥＲＡＬ（ミーティアライト）</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<HR>
+<H2 align="center">セントラルシティ</H2>
+<CENTER>
+<TABLE border="1" bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc">チャート</TD>
+      <TD bgcolor="#ffffff">ナールにルーンコードとリングコンボをもらう<BR>
+      まずは知の場へ<BR>
+      ■チサト<BR>
+      紅水晶の洞窟でチサトの名刺を拾った後、新聞社（３階）にいるチサトに渡すとチサトが仲間になる</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

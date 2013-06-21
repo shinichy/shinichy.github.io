@@ -1,0 +1,133 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 7.0.0.0 for Windows">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE>ラクア</TITLE>
+</HEAD>
+<BODY text="#000000" bgcolor="#a3e0e0" link="#FF8040" vlink="#999999" alink="#bc7a7a">
+<H2 align="center">ラクア</H2>
+<P align="center"><A href="../pick pocket list3.html#ラクア">ピックポケット</A></P>
+<CENTER>
+<TABLE border="1" bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc" align="center">チャート</TD>
+      <TD bgcolor="#ffffff" align="left">フィーナルへ</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<H2 align="center">フィーナル</H2>
+<CENTER>
+<TABLE border="1" bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc" align="center">チャート</TD>
+      <TD bgcolor="#ffffff" align="left">ザコと戦った後ザフィケルとバトル！<BR>
+      ザフィケルには負けるようになっています<BR>
+      アームロックの街へ</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<H2 align="center">アームロックの街</H2>
+<P align="center"><A href="../pick pocket list3.html#アームロック">ピックポケット</A></P>
+<CENTER>
+<TABLE border="1" bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc" align="center">チャート</TD>
+      <TD bgcolor="#ffffff" align="left">ミラージュの家に行った後、紋章兵器研究所へ</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<H2 align="center">紋章兵器研究所</H2>
+<CENTER>
+<TABLE border="1" bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc">チャート</TD>
+      <TD bgcolor="#ffffff" align="left">レナが１人で飛び出した後はトランスポート近くの森に行けばよい<BR>
+      ミラージュの家へ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc">入手アイテム</TD>
+      <TD bgcolor="#ffffff" align="left">マインドリング</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<H2 align="center">アームロックの街</H2>
+<CENTER>
+<TABLE border="1" bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc">チャート</TD>
+      <TD bgcolor="#ffffff" align="left">レアメタルを取ってくるように言われるので、北西のミーネ洞窟へ</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<H2 align="center">ミーネ洞窟</H2>
+<CENTER>
+<TABLE border="1" bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc">チャート</TD>
+      <TD bgcolor="#ffffff" align="left">構造は単純なので迷うことはないでしょう<BR>
+      入り口から左上→右上と進めば後は一本道です<BR>
+      奥でバークとバトル！<BR>
+      <TABLE bgcolor="#0000ff" border="1">
+        <TBODY>
+          <TR>
+            <TD colspan="4" bgcolor="#00ff00" align="center">バーク</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">ＨＰ</TD>
+            <TD bgcolor="#e1e1ff" align="center">１５００００</TD>
+            <TD bgcolor="#e1e1ff" align="center">弱点属性</TD>
+            <TD bgcolor="#e1e1ff" align="center"></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">ＭＰ</TD>
+            <TD bgcolor="#e1e1ff" align="center">４００</TD>
+            <TD bgcolor="#e1e1ff" align="center">耐性属性</TD>
+            <TD bgcolor="#e1e1ff" align="center"></TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">経験値</TD>
+            <TD bgcolor="#e1e1ff" align="center">５９８００</TD>
+            <TD bgcolor="#e1e1ff" align="center">入手アイテム</TD>
+            <TD bgcolor="#e1e1ff" align="center">ミスリル</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">フォル</TD>
+            <TD bgcolor="#e1e1ff" align="center">５５０００</TD>
+            <TD bgcolor="#e1e1ff" align="center"></TD>
+            <TD bgcolor="#e1e1ff" align="center"></TD>
+          </TR>
+          <TR>
+            <TD colspan="4" bgcolor="#d0d0ff">こちらが攻撃しない限り攻撃してきません<BR>
+            ＨＰが減ったら攻撃をやめて回復すれば問題ありません</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      レアメタル入手<BR>
+      レアメタルを入手した後はモンスターは出現しないので、アイテムを回収しましょう<BR>
+      ミラージュの家へ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc">入手アイテム</TD>
+      <TD bgcolor="#ffffff" align="left">フルーツシロップ、？ＭＩＮＥＲＡＬ（ダマスクス）<BR>
+      ダミードール、アセラス、ライトニングガン<BR>
+      ミーティアライト、特効薬、辞典、フレッシュシロップ<BR>
+      気付け薬、ミスリルメッシュ、リキュールボトル、スミスハンマー</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+</BODY>
+</HTML>

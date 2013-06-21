@@ -1,0 +1,132 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META name="GENERATOR" content="IBM WebSphere Studio Homepage Builder Version 7.0.0.0 for Windows">
+<META http-equiv="Content-Style-Type" content="text/css">
+<TITLE>ＳＯ２　アーリア村</TITLE>
+</HEAD>
+<BODY text="#000000" bgcolor="#a3e0e0" link="#FF8040" vlink="#999999" alink="#bc7a7a">
+<H2 align="center">アーリア村</H2>
+<CENTER>
+<TABLE border="1" bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc">チャート</TD>
+      <TD bgcolor="#ffffff">■<FONT color="#0000ff">ピックポケット</FONT><BR>
+      まずスキル画面で△を押し、初期タレントを見ましょう<BR>
+      器用な指先があればＯＫです<BR>
+      <A href="chapter2.html#ピックポケット">ピックポケット</A>をしない人は別に構いませんが・・・<BR>
+      <BR>
+      オープニングの後神護の森へ<BR>
+      ■<FONT color="#0000ff">神護の森</FONT><BR>
+      モンスターに襲われるがクロードに助けられる<BR>
+      アーリア村に戻る<BR>
+      <BR>
+      村を案内する時にアイテムを回収しておく<BR>
+      森の出口でアレンに連れ去られる</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc">入手アイテム</TD>
+      <TD bgcolor="#ffffff">★<FONT color="#0000ff">民家</FONT><BR>
+      ブルーベリィ、ローズヒップ<BR>
+      ★<FONT color="#0000ff">雑貨屋の前の宝箱</FONT><BR>
+      レザーアーマー、２００フォル、リザレクトボトル<BR>
+      ★<FONT color="#0000ff">村長の家の上にある民家</FONT><BR>
+      いちごジャム<BR>
+      ★<FONT color="#0000ff">レナの家</FONT><BR>
+      ブラックベリィ</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<HR>
+<H2 align="center">サルバの町</H2>
+<CENTER>
+<TABLE border="1" bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc">チャート</TD>
+      <TD bgcolor="#ffffff">アレンの屋敷の１階で隠し通路を発見する<BR>
+      サルバ坑道へ</TD>
+    </TR>
+    <TR>
+      <TD bgcolor="#cccccc">入手アイテム</TD>
+      <TD bgcolor="#ffffff">★<FONT color="#0000ff">アレンの屋敷</FONT><BR>
+      肖像画Ｂ</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<HR>
+<H2 align="center">サルバ坑道</H2>
+<CENTER>
+<TABLE border="1" bgcolor="#0000ff">
+  <TBODY>
+    <TR>
+      <TD bgcolor="#cccccc">チャート</TD>
+      <TD bgcolor="#ffffff">レナ１人なので攻撃を受けるとすぐに死んでしまいます<BR>
+      入り口周辺でレベルを上げましょう<BR>
+      <BR>
+      <TABLE>
+        <TBODY>
+          <TR>
+            <TD bgcolor="#ffffff" align="left">★<FONT color="#0000ff">フロア１</FONT><BR>
+      ブラックベリィ、ローズヒップ<BR>
+      ↑フロア３、←フロア２（移動可能フロア）<BR>
+      ★<FONT color="#0000ff">フロア２</FONT><BR>
+      ブルーベリィ、シルバー<BR>
+      ★<FONT color="#0000ff">フロア３</FONT><BR>
+      アイアン<BR>
+      ★<FONT color="#0000ff">フロア４</FONT><BR>
+      スペクタクルズ、ゴールド、ブルーベリィ<BR>
+      ←フロア５、↑アレンがいるフロア<BR>
+      ★<FONT color="#0000ff">フロア５</FONT><BR>
+      ゴールド</TD>
+    </TR>
+  </TBODY>
+      </TABLE>
+<BR>
+      奥でアレン・タックスとバトル！<BR>
+      <TABLE bgcolor="#0000ff" border="1">
+        <TBODY>
+          <TR>
+            <TD colspan="4" bgcolor="#00ff00" align="center">アレン・タックス</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">ＨＰ</TD>
+            <TD bgcolor="#e1e1ff" align="center">４００</TD>
+            <TD bgcolor="#e1e1ff" align="center">弱点属性</TD>
+            <TD bgcolor="#e1e1ff" align="center">光</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">ＭＰ</TD>
+            <TD bgcolor="#e1e1ff" align="center">０</TD>
+            <TD bgcolor="#e1e1ff" align="center">耐性属性</TD>
+            <TD bgcolor="#e1e1ff" align="center">闇</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">経験値</TD>
+            <TD bgcolor="#e1e1ff" align="center">１５０</TD>
+            <TD bgcolor="#e1e1ff" align="center">入手アイテム</TD>
+            <TD bgcolor="#e1e1ff" align="center">なし</TD>
+          </TR>
+          <TR>
+            <TD bgcolor="#e1e1ff" align="center">フォル</TD>
+            <TD bgcolor="#e1e1ff" align="center">５００</TD>
+            <TD bgcolor="#e1e1ff" align="center"></TD>
+            <TD bgcolor="#e1e1ff" align="center"></TD>
+          </TR>
+          <TR>
+            <TD colspan="4" bgcolor="#d0d0ff">レナを操作してクロードとレナではさみうちすれば楽勝です</TD>
+          </TR>
+        </TBODY>
+      </TABLE>
+      アーリア村へ</TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</CENTER>
+<H2 align="center"><A href="chapter2.html">アーリア村～港街クリク</A></H2>
+</BODY>
+</HTML>
